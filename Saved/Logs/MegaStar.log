@@ -3375,3 +3375,597 @@ UnknownFunction []
 [2024.05.07-16.27.31:746][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2024.05.07-16.27.31:751][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2024.05.07-16.27.31:810][606]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.07-16.30.31:264][425]LogViewport: Scene viewport resized to 2038x797, mode Windowed.
+[2024.05.07-16.30.31:289][426]LogViewport: Scene viewport resized to 2038x786, mode Windowed.
+[2024.05.07-16.30.31:330][427]LogViewport: Scene viewport resized to 2038x745, mode Windowed.
+[2024.05.07-16.30.31:365][428]LogViewport: Scene viewport resized to 2038x686, mode Windowed.
+[2024.05.07-16.30.31:401][429]LogViewport: Scene viewport resized to 2038x624, mode Windowed.
+[2024.05.07-16.30.31:435][430]LogViewport: Scene viewport resized to 2038x584, mode Windowed.
+[2024.05.07-16.30.31:470][431]LogViewport: Scene viewport resized to 2038x556, mode Windowed.
+[2024.05.07-16.30.31:503][432]LogViewport: Scene viewport resized to 2038x542, mode Windowed.
+[2024.05.07-16.30.31:544][433]LogViewport: Scene viewport resized to 2038x530, mode Windowed.
+[2024.05.07-16.30.31:578][434]LogViewport: Scene viewport resized to 2038x517, mode Windowed.
+[2024.05.07-16.30.31:612][435]LogViewport: Scene viewport resized to 2038x505, mode Windowed.
+[2024.05.07-16.30.31:647][436]LogViewport: Scene viewport resized to 2038x481, mode Windowed.
+[2024.05.07-16.30.31:680][437]LogViewport: Scene viewport resized to 2038x456, mode Windowed.
+[2024.05.07-16.30.31:715][438]LogViewport: Scene viewport resized to 2038x433, mode Windowed.
+[2024.05.07-16.30.31:750][439]LogViewport: Scene viewport resized to 2038x412, mode Windowed.
+[2024.05.07-16.30.31:785][440]LogViewport: Scene viewport resized to 2038x395, mode Windowed.
+[2024.05.07-16.30.31:820][441]LogViewport: Scene viewport resized to 2038x383, mode Windowed.
+[2024.05.07-16.30.31:852][442]LogViewport: Scene viewport resized to 2038x376, mode Windowed.
+[2024.05.07-16.30.31:888][443]LogViewport: Scene viewport resized to 2038x372, mode Windowed.
+[2024.05.07-16.30.31:919][444]LogViewport: Scene viewport resized to 2038x371, mode Windowed.
+[2024.05.07-16.30.31:953][445]LogViewport: Scene viewport resized to 2038x367, mode Windowed.
+[2024.05.07-16.30.31:983][446]LogViewport: Scene viewport resized to 2038x365, mode Windowed.
+[2024.05.07-16.30.32:016][447]LogViewport: Scene viewport resized to 2038x366, mode Windowed.
+[2024.05.07-16.30.47:565][262]LogContentBrowser: Deferred new asset file creation: NewPaperZDAnimationSource
+[2024.05.07-16.30.47:570][262]LogContentBrowser: Creating deferred item: NewPaperZDAnimationSource
+[2024.05.07-16.30.47:579][263]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperZDAnimationSource).
+[2024.05.07-16.30.53:140][924]LogContentBrowser: Attempting asset rename: NewPaperZDAnimationSource -> AS_Player
+[2024.05.07-16.30.53:143][924]LogContentBrowser: End creating deferred item NewPaperZDAnimationSource
+[2024.05.07-16.30.56:936][362]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/BP/Characters/Player/AS_Player.AS_Player
+[2024.05.07-16.30.56:967][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.30.56:967][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.30.57:015][362]LogSlate: Took 0.001020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.07-16.30.57:018][362]LogViewport: Scene viewport resized to 1525x902, mode Windowed.
+[2024.05.07-16.31.07:229][574]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2024.05.07-16.31.07:231][574]LogViewport: Scene viewport resized to 1525x538, mode Windowed.
+[2024.05.07-16.31.21:478][808]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Idle
+[2024.05.07-16.31.21:504][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.31.21:543][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Idle" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Idle.uasset" SILENT=true
+[2024.05.07-16.31.21:545][808]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Idle
+[2024.05.07-16.31.21:545][808]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IdleD4F7DFBD4F9B0C6B6209AAAC44354E2F.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Idle.uasset'
+[2024.05.07-16.31.21:552][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 2.84 sec)
+[2024.05.07-16.31.21:572][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.07-16.31.21:584][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.07-16.31.21:597][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.07-16.31.21:599][808]AssetCheck: New page: Asset Save: Idle
+[2024.05.07-16.31.21:599][808]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Idle.Idle
+[2024.05.07-16.31.50:163][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.31.50:221][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AS_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset" SILENT=true
+[2024.05.07-16.31.50:223][  4]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AS_Player
+[2024.05.07-16.31.50:223][  4]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/AS_Player70303DFA4504F09FB5EFD297A768AA5B.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset'
+[2024.05.07-16.31.50:229][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.90 sec)
+[2024.05.07-16.31.50:230][  4]AssetCheck: New page: Asset Save: AS_Player
+[2024.05.07-16.31.50:230][  4]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/BP/Characters/Player/AS_Player.AS_Player
+[2024.05.07-16.32.08:330][709]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> NewPaperZDAnimSequence
+[2024.05.07-16.32.53:965][895]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Climb
+[2024.05.07-16.32.53:991][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.32.54:048][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Climb" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Climb.uasset" SILENT=true
+[2024.05.07-16.32.54:051][895]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Climb
+[2024.05.07-16.32.54:051][895]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Climb0935BD324BABD87F27EDF9A4A7E70710.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Climb.uasset'
+[2024.05.07-16.32.54:056][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.97 sec)
+[2024.05.07-16.32.54:077][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.07-16.32.54:092][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.07-16.32.54:104][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-16.32.54:105][895]AssetCheck: New page: Asset Save: Climb
+[2024.05.07-16.32.54:105][895]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Climb.Climb
+[2024.05.07-16.33.16:974][501]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> ClimbShoot
+[2024.05.07-16.33.16:999][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.33.17:058][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/ClimbShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/ClimbShoot.uasset" SILENT=true
+[2024.05.07-16.33.17:061][501]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/ClimbShoot
+[2024.05.07-16.33.17:061][501]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/ClimbShoot339297EF42499DB470472FA0BD80A4B9.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/ClimbShoot.uasset'
+[2024.05.07-16.33.17:068][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.04 sec)
+[2024.05.07-16.33.17:087][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.07-16.33.17:101][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.07-16.33.17:114][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-16.33.17:115][501]AssetCheck: New page: Asset Save: ClimbShoot
+[2024.05.07-16.33.17:115][501]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/ClimbShoot.ClimbShoot
+[2024.05.07-16.33.53:421][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.07-16.33.53:422][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.012
+[2024.05.07-16.33.53:422][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Characters/Player/AnimSequences/Idle] ([1] browsable assets)...
+[2024.05.07-16.33.53:422][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Characters/Player/AnimSequences/Idle]
+[2024.05.07-16.33.53:425][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Characters/Player/AnimSequences/Idle_Auto2
+[2024.05.07-16.33.53:425][943]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Idle_Auto2FC036EF745E27333A666ABB2CE6D7B4A.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/BP/Characters/Player/AnimSequences/Idle_Auto2.uasset'
+[2024.05.07-16.33.53:425][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Characters/Player/AnimSequences/Climb] ([1] browsable assets)...
+[2024.05.07-16.33.53:425][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Characters/Player/AnimSequences/Climb]
+[2024.05.07-16.33.53:427][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Characters/Player/AnimSequences/Climb_Auto2
+[2024.05.07-16.33.53:427][943]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Climb_Auto29945F7BE4DD9BACDC6B4699785E9E82B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/BP/Characters/Player/AnimSequences/Climb_Auto2.uasset'
+[2024.05.07-16.33.53:428][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Characters/Player/AnimSequences/ClimbShoot] ([1] browsable assets)...
+[2024.05.07-16.33.53:428][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Characters/Player/AnimSequences/ClimbShoot]
+[2024.05.07-16.33.53:430][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Characters/Player/AnimSequences/ClimbShoot_Auto2
+[2024.05.07-16.33.53:430][943]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/ClimbShoot_Auto27725545A4D9191F972D8C79E58A02B8E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/BP/Characters/Player/AnimSequences/ClimbShoot_Auto2.uasset'
+[2024.05.07-16.33.53:431][943]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.05.07-16.54.55:034][728]LogDerivedDataCache: C:/Users/Lavoro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2359 files in 3550 folders with total size 545 MiB.
+[2024.05.07-17.48.36:522][391]LogViewport: Scene viewport resized to 1525x562, mode Windowed.
+[2024.05.07-17.48.36:741][392]LogViewport: Scene viewport resized to 1525x538, mode Windowed.
+[2024.05.07-17.48.38:309][394]LogViewport: Scene viewport resized to 1525x562, mode Windowed.
+[2024.05.07-17.48.38:910][396]LogViewport: Scene viewport resized to 1525x538, mode Windowed.
+[2024.05.07-17.48.58:690][490]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Fall
+[2024.05.07-17.48.58:717][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.48.58:752][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Fall" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Fall.uasset" SILENT=true
+[2024.05.07-17.48.58:755][490]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Fall
+[2024.05.07-17.48.58:755][490]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Fall0E2CBA284543F28510A346A63CAC9AB4.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Fall.uasset'
+[2024.05.07-17.48.58:761][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 3.08 sec)
+[2024.05.07-17.48.58:780][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.07-17.48.58:794][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.07-17.48.58:807][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.07-17.48.58:810][490]AssetCheck: New page: Asset Save: Fall
+[2024.05.07-17.48.58:810][490]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Fall.Fall
+[2024.05.07-17.49.08:514][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.49.08:573][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AS_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset" SILENT=true
+[2024.05.07-17.49.08:575][589]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AS_Player
+[2024.05.07-17.49.08:576][589]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/AS_PlayerCF8BCD074608CA96A93E82B141C3195E.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset'
+[2024.05.07-17.49.08:582][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.15 sec)
+[2024.05.07-17.49.08:583][589]AssetCheck: New page: Asset Save: AS_Player
+[2024.05.07-17.49.08:583][589]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/BP/Characters/Player/AS_Player.AS_Player
+[2024.05.07-17.49.28:302][469]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> FallShoot
+[2024.05.07-17.49.28:327][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.49.28:382][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/FallShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/FallShoot.uasset" SILENT=true
+[2024.05.07-17.49.28:384][469]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/FallShoot
+[2024.05.07-17.49.28:384][469]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/FallShoot17488D7F47C51474785DAE9F80DC54B3.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/FallShoot.uasset'
+[2024.05.07-17.49.28:392][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.21 sec)
+[2024.05.07-17.49.28:411][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.07-17.49.28:425][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.07-17.49.28:438][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.07-17.49.28:439][469]AssetCheck: New page: Asset Save: FallShoot
+[2024.05.07-17.49.28:439][469]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/FallShoot.FallShoot
+[2024.05.07-17.49.46:265][313]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Hurt
+[2024.05.07-17.49.46:294][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.49.46:355][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Hurt" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Hurt.uasset" SILENT=true
+[2024.05.07-17.49.46:358][313]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Hurt
+[2024.05.07-17.49.46:358][313]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/HurtBCD8AE6B4B53D5C7486AD59455D7C2A9.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Hurt.uasset'
+[2024.05.07-17.49.46:364][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.28 sec)
+[2024.05.07-17.49.46:383][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.07-17.49.46:397][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.07-17.49.46:408][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-17.49.46:409][313]AssetCheck: New page: Asset Save: Hurt
+[2024.05.07-17.49.46:409][313]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Hurt.Hurt
+[2024.05.07-17.50.04:537][408]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> IdleShoot
+[2024.05.07-17.50.04:562][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.50.04:597][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/IdleShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/IdleShoot.uasset" SILENT=true
+[2024.05.07-17.50.04:599][408]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/IdleShoot
+[2024.05.07-17.50.04:599][408]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IdleShoot6F542EDB4CDD98C187AF389D4534F2C6.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/IdleShoot.uasset'
+[2024.05.07-17.50.04:605][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.32 sec)
+[2024.05.07-17.50.04:625][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.07-17.50.04:640][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.07-17.50.04:653][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.07-17.50.04:654][408]AssetCheck: New page: Asset Save: IdleShoot
+[2024.05.07-17.50.04:654][408]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/IdleShoot.IdleShoot
+[2024.05.07-17.50.19:746][117]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> JumpRise
+[2024.05.07-17.50.19:771][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.50.19:820][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/JumpRise" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRise.uasset" SILENT=true
+[2024.05.07-17.50.19:822][117]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/JumpRise
+[2024.05.07-17.50.19:822][117]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/JumpRise9FDD0C2344EE624BC1614AB164D4EA51.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRise.uasset'
+[2024.05.07-17.50.19:829][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.38 sec)
+[2024.05.07-17.50.19:848][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.07-17.50.19:862][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.07-17.50.19:875][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-17.50.19:876][117]AssetCheck: New page: Asset Save: JumpRise
+[2024.05.07-17.50.19:876][117]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/JumpRise.JumpRise
+[2024.05.07-17.50.35:208][700]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> JumpRiseShoot
+[2024.05.07-17.50.35:234][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.50.35:293][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/JumpRiseShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRiseShoot.uasset" SILENT=true
+[2024.05.07-17.50.35:296][700]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/JumpRiseShoot
+[2024.05.07-17.50.35:296][700]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/JumpRiseShootC4389DD640A3A70C9B509CAE56CCF2B2.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRiseShoot.uasset'
+[2024.05.07-17.50.35:303][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.45 sec)
+[2024.05.07-17.50.35:322][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.07-17.50.35:336][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.07-17.50.35:349][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.07-17.50.35:350][700]AssetCheck: New page: Asset Save: JumpRiseShoot
+[2024.05.07-17.50.35:350][700]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/JumpRiseShoot.JumpRiseShoot
+[2024.05.07-17.51.02:062][192]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Run
+[2024.05.07-17.51.02:087][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.51.02:137][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Run" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Run.uasset" SILENT=true
+[2024.05.07-17.51.02:140][192]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Run
+[2024.05.07-17.51.02:140][192]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Run791B7EFC45DF0A99C08C5883ECF0D831.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Run.uasset'
+[2024.05.07-17.51.02:146][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.51 sec)
+[2024.05.07-17.51.02:167][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.07-17.51.02:181][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.07-17.51.02:194][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.07-17.51.02:195][192]AssetCheck: New page: Asset Save: Run
+[2024.05.07-17.51.02:196][192]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Run.Run
+[2024.05.07-17.51.16:643][820]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> RunShoot
+[2024.05.07-17.51.16:668][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.51.16:728][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/RunShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/RunShoot.uasset" SILENT=true
+[2024.05.07-17.51.16:731][820]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/RunShoot
+[2024.05.07-17.51.16:731][820]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/RunShootF51297CB49DB1E8A325473B5C50D5DC7.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/RunShoot.uasset'
+[2024.05.07-17.51.16:737][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.58 sec)
+[2024.05.07-17.51.16:755][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.07-17.51.16:768][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.07-17.51.16:781][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.07-17.51.16:782][820]AssetCheck: New page: Asset Save: RunShoot
+[2024.05.07-17.51.16:782][820]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/RunShoot.RunShoot
+[2024.05.07-17.51.24:235][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.51.24:279][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AS_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset" SILENT=true
+[2024.05.07-17.51.24:281][659]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AS_Player
+[2024.05.07-17.51.24:282][659]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/AS_PlayerA149C3CB411875B1708FE8B5CD172FB4.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset'
+[2024.05.07-17.51.24:288][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 3.63 sec)
+[2024.05.07-17.51.24:289][659]AssetCheck: New page: Asset Save: AS_Player
+[2024.05.07-17.51.24:289][659]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/BP/Characters/Player/AS_Player.AS_Player
+[2024.05.07-17.51.30:526][373]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Slide
+[2024.05.07-17.51.30:551][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.51.30:600][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Slide" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Slide.uasset" SILENT=true
+[2024.05.07-17.51.30:603][373]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Slide
+[2024.05.07-17.51.30:603][373]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Slide3E5765144347E33ABD815FA01D047A60.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Slide.uasset'
+[2024.05.07-17.51.30:609][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.69 sec)
+[2024.05.07-17.51.30:626][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.07-17.51.30:640][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.07-17.51.30:653][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-17.51.30:654][373]AssetCheck: New page: Asset Save: Slide
+[2024.05.07-17.51.30:654][373]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Slide.Slide
+[2024.05.07-17.51.43:752][867]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> WallSlide
+[2024.05.07-17.51.43:777][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.51.43:822][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/WallSlide" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlide.uasset" SILENT=true
+[2024.05.07-17.51.43:824][867]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/WallSlide
+[2024.05.07-17.51.43:824][867]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/WallSlide7EE1AD064F10CECCD726B3829CF5C9CF.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlide.uasset'
+[2024.05.07-17.51.43:830][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 3.74 sec)
+[2024.05.07-17.51.43:849][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.07-17.51.43:864][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.07-17.51.43:877][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.07-17.51.43:878][867]AssetCheck: New page: Asset Save: WallSlide
+[2024.05.07-17.51.43:878][867]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/WallSlide.WallSlide
+[2024.05.07-17.51.57:638][423]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> WallSlideShoot
+[2024.05.07-17.51.57:663][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.51.57:712][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/WallSlideShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlideShoot.uasset" SILENT=true
+[2024.05.07-17.51.57:714][423]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/WallSlideShoot
+[2024.05.07-17.51.57:714][423]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/WallSlideShoot1D10674F41675CCCFD78B884E95EBA96.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlideShoot.uasset'
+[2024.05.07-17.51.57:721][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.80 sec)
+[2024.05.07-17.51.57:740][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.07-17.51.57:755][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.07-17.51.57:768][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.07-17.51.57:769][423]AssetCheck: New page: Asset Save: WallSlideShoot
+[2024.05.07-17.51.57:769][423]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/WallSlideShoot.WallSlideShoot
+[2024.05.07-17.52.06:382][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.52.06:430][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AS_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset" SILENT=true
+[2024.05.07-17.52.06:432][403]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AS_Player
+[2024.05.07-17.52.06:432][403]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/AS_PlayerA83BB6A64FE9061F6A6AEE976876E0B9.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset'
+[2024.05.07-17.52.06:438][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.86 sec)
+[2024.05.07-17.52.06:438][403]AssetCheck: New page: Asset Save: AS_Player
+[2024.05.07-17.52.06:438][403]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/BP/Characters/Player/AS_Player.AS_Player
+[2024.05.07-17.52.13:551][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.52.13:601][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AS_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset" SILENT=true
+[2024.05.07-17.52.13:604][210]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AS_Player
+[2024.05.07-17.52.13:604][210]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/AS_Player9C292CAB47FF3C966C5AB99E3F0ABF97.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AS_Player.uasset'
+[2024.05.07-17.52.13:610][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.92 sec)
+[2024.05.07-17.52.13:611][210]AssetCheck: New page: Asset Save: AS_Player
+[2024.05.07-17.52.13:611][210]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/BP/Characters/Player/AS_Player.AS_Player
+[2024.05.07-17.52.24:007][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.07-17.52.24:028][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-17.52.24:071][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Enemies/bat/bat" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/bat.uasset" SILENT=true
+[2024.05.07-17.52.24:074][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/bat/bat
+[2024.05.07-17.52.24:074][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/batF7CDF60F463A69A08930C4AA8BEE0480.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/bat.uasset'
+[2024.05.07-17.52.24:078][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase
+[2024.05.07-17.52.24:078][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_0_aseA1DEFEF145C28C1911FF9A885F4BEEAF.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase.uasset'
+[2024.05.07-17.52.24:081][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase
+[2024.05.07-17.52.24:081][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_1_aseBEA30023417410668A7F2594C35485AB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase.uasset'
+[2024.05.07-17.52.24:085][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase
+[2024.05.07-17.52.24:085][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_2_ase4A0BC7BF4439D89C0FA4CC9CA122DFCB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase.uasset'
+[2024.05.07-17.52.24:089][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase
+[2024.05.07-17.52.24:089][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_3_aseF10CA84D42630D0397E4A2A27D8F53F2.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase.uasset'
+[2024.05.07-17.52.24:092][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase
+[2024.05.07-17.52.24:092][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_4_ase3CCDA3AA48B4C79F762B7B96BB9B1FFB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase.uasset'
+[2024.05.07-17.52.24:093][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Enemies/crab/crab" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/crab.uasset" SILENT=true
+[2024.05.07-17.52.24:095][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/crab
+[2024.05.07-17.52.24:095][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab00599C7A4A689E36882DB29F4A2566EB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/crab.uasset'
+[2024.05.07-17.52.24:098][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase
+[2024.05.07-17.52.24:098][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_0_ase9FF3B3A3457573A84557E8AC7AF9A26D.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase.uasset'
+[2024.05.07-17.52.24:101][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase
+[2024.05.07-17.52.24:101][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_1_ase847C3BD94E166BBF59ADC8B193BED1A5.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase.uasset'
+[2024.05.07-17.52.24:104][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase
+[2024.05.07-17.52.24:104][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_2_ase2A0D5D7343BAC95943160EB8EA57DA69.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase.uasset'
+[2024.05.07-17.52.24:108][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase
+[2024.05.07-17.52.24:108][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_3_ase64675CA640202C2DB5E3B59342CD4D19.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase.uasset'
+[2024.05.07-17.52.24:111][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase
+[2024.05.07-17.52.24:111][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_4_ase7C4EB53344B3169CECDF999FBE0C306C.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase.uasset'
+[2024.05.07-17.52.24:114][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase
+[2024.05.07-17.52.24:114][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_5_ase1D2A10D74E8AF353CA2636B9AC53596A.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase.uasset'
+[2024.05.07-17.52.24:118][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase
+[2024.05.07-17.52.24:118][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_0_aseD99F691746F237D35CA506A02B5B3D72.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase.uasset'
+[2024.05.07-17.52.24:121][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase
+[2024.05.07-17.52.24:121][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_1_ase590FAC4A43AE0A1DE09535A5980CB894.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase.uasset'
+[2024.05.07-17.52.24:124][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase
+[2024.05.07-17.52.24:124][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_2_aseE0148E484D4FB57A378F378F0D3923D9.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase.uasset'
+[2024.05.07-17.52.24:127][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase
+[2024.05.07-17.52.24:127][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_3_ase885AECC442A0EC8A2981E6BE3DC16D8A.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase.uasset'
+[2024.05.07-17.52.24:128][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/fly-eye/fly-eye.uasset" SILENT=true
+[2024.05.07-17.52.24:130][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye
+[2024.05.07-17.52.24:130][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eyeC810C0EA4613D7D4B3C38287E8FAB014.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/fly-eye/fly-eye.uasset'
+[2024.05.07-17.52.24:133][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite
+[2024.05.07-17.52.24:133][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_0_aseprite5032ABBA45C4EB823AF253950CBCD307.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite.uasset'
+[2024.05.07-17.52.24:137][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite
+[2024.05.07-17.52.24:137][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_1_aseprite30C360CA47B838839EC13E8E3AC05675.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite.uasset'
+[2024.05.07-17.52.24:140][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite
+[2024.05.07-17.52.24:140][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_2_asepriteAC4822CF4578D0EF41A21CA7D11D8D1E.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite.uasset'
+[2024.05.07-17.52.24:147][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite
+[2024.05.07-17.52.24:147][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_3_asepriteD433258C4F9E5E6070C06F92BC6D7526.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite.uasset'
+[2024.05.07-17.52.24:148][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Enemies/lizard/lizard" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/lizard.uasset" SILENT=true
+[2024.05.07-17.52.24:150][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/lizard
+[2024.05.07-17.52.24:150][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizardE9FA35FC46D85CD7EE8FA7BF416A7490.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/lizard.uasset'
+[2024.05.07-17.52.24:153][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite
+[2024.05.07-17.52.24:153][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Idle_0_aseprite781DB50C4B252EB0BD7E1EB4631F1959.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite.uasset'
+[2024.05.07-17.52.24:156][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite
+[2024.05.07-17.52.24:156][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Idle_1_aseprite8B8CFDA04AD6781D05E04C8BFB423FF3.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite.uasset'
+[2024.05.07-17.52.24:159][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite
+[2024.05.07-17.52.24:159][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Jump_0_asepriteAFAF60614D1B0D95CB2DEE9A5547ED84.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite.uasset'
+[2024.05.07-17.52.24:166][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite
+[2024.05.07-17.52.24:166][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_0_asepriteC011740347FFFD4541BC45AD6441C886.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:169][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite
+[2024.05.07-17.52.24:169][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_1_aseprite2B4B34E4463B606C905A22BE06D622C8.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite.uasset'
+[2024.05.07-17.52.24:172][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite
+[2024.05.07-17.52.24:172][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_2_asepriteC9A04237429257E1B306479C34263A51.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite.uasset'
+[2024.05.07-17.52.24:175][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite
+[2024.05.07-17.52.24:175][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_3_asepriteAAE006924734C1608993DBA6BC4AB480.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite.uasset'
+[2024.05.07-17.52.24:179][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite
+[2024.05.07-17.52.24:179][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_4_aseprite3DBDB694462A9684BDDBCD9142866D3D.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite.uasset'
+[2024.05.07-17.52.24:180][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Characters/Player/player" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/player.uasset" SILENT=true
+[2024.05.07-17.52.24:182][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/player
+[2024.05.07-17.52.24:182][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player792342314608126E3A833FAA22B96153.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/player.uasset'
+[2024.05.07-17.52.24:185][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite
+[2024.05.07-17.52.24:185][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_0_asepriteAC37BDD24B1EEF29277CEA9BE1CE7367.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite.uasset'
+[2024.05.07-17.52.24:188][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite
+[2024.05.07-17.52.24:188][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_1_asepriteD98E71524B0840894269D8A1A08EA2BA.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite.uasset'
+[2024.05.07-17.52.24:191][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite
+[2024.05.07-17.52.24:191][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_2_aseprite9C94744C4785970AB16C2BAA1E0A6A1D.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite.uasset'
+[2024.05.07-17.52.24:195][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite
+[2024.05.07-17.52.24:195][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_3_asepriteDF38C0364A611722568044BF7D49B876.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite.uasset'
+[2024.05.07-17.52.24:198][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite
+[2024.05.07-17.52.24:198][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Slide_0_aseprite246EFAA546E60FDCBE39DAAB4880126E.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.uasset'
+[2024.05.07-17.52.24:201][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite
+[2024.05.07-17.52.24:201][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__JumpRise_0_aseprite790B57764A4A3BD06EA4389C36F7B032.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite.uasset'
+[2024.05.07-17.52.24:204][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite
+[2024.05.07-17.52.24:204][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Fall_0_aseprite70EF4B3949BD5E48E55ABC9B33CEFC5E.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite.uasset'
+[2024.05.07-17.52.24:207][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite
+[2024.05.07-17.52.24:207][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Hurt_0_aseprite8B5E2E5E4B80602DF3500195A12EE4EB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite.uasset'
+[2024.05.07-17.52.24:211][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite
+[2024.05.07-17.52.24:211][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Hurt_1_asepriteB57B889742A45FC985C343B4C796D86E.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite.uasset'
+[2024.05.07-17.52.24:214][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite
+[2024.05.07-17.52.24:214][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_0_asepriteCD5034E947B39BF6801CAB8B15C6F376.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite.uasset'
+[2024.05.07-17.52.24:217][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite
+[2024.05.07-17.52.24:217][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_1_aseprite7AEDB54C4E7D524523B4CE8846CD9981.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite.uasset'
+[2024.05.07-17.52.24:220][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite
+[2024.05.07-17.52.24:220][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_2_asepriteFB2FCA2941CA9B84BA8972A9B14CC362.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite.uasset'
+[2024.05.07-17.52.24:224][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite
+[2024.05.07-17.52.24:224][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_3_asepriteE68691B24CFFE9FFEA88FCAEA02F3F0A.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite.uasset'
+[2024.05.07-17.52.24:227][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite
+[2024.05.07-17.52.24:227][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_4_aseprite4B0E76954A90CE19594B959E292CA660.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite.uasset'
+[2024.05.07-17.52.24:230][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite
+[2024.05.07-17.52.24:230][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_5_aseprite8E3FAAEF4A595A8E0E477FACF1FB5AA6.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite.uasset'
+[2024.05.07-17.52.24:233][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite
+[2024.05.07-17.52.24:233][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_0_asepriteEE9692C249CFE43D875BE6BA0A8D2245.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite.uasset'
+[2024.05.07-17.52.24:237][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite
+[2024.05.07-17.52.24:237][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_1_aseprite6B93A4AB4D84595F1A20D3924CF976CE.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite.uasset'
+[2024.05.07-17.52.24:240][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite
+[2024.05.07-17.52.24:240][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_2_aseprite645AEC2D4A717A0F0B89ABB632A69B73.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite.uasset'
+[2024.05.07-17.52.24:244][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite
+[2024.05.07-17.52.24:244][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_3_aseprite3F80E8DF48019F3C018AE9AE5F3C5E51.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite.uasset'
+[2024.05.07-17.52.24:247][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite
+[2024.05.07-17.52.24:247][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_4_aseprite6C12AD1B45B0E54EE505B9B869B99EB4.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite.uasset'
+[2024.05.07-17.52.24:251][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite
+[2024.05.07-17.52.24:251][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_5_aseprite6EA77D1A47663ACE5EFA60859756C8B3.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite.uasset'
+[2024.05.07-17.52.24:254][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite
+[2024.05.07-17.52.24:254][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_Shoot_0_aseprite24D6C2934EFFAB2D716D2EA6B1D6A0FB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:257][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite
+[2024.05.07-17.52.24:257][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_Shoot_1_asepriteED2F7B6B4F89E7386AC1739171C8A5BB.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite.uasset'
+[2024.05.07-17.52.24:260][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite
+[2024.05.07-17.52.24:260][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_Shoot_2_aseprite4E0DAC884933EDD94F3CE489C6D3F748.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite.uasset'
+[2024.05.07-17.52.24:263][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite
+[2024.05.07-17.52.24:263][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_0_asepriteB43528754060D66BFAB31AA5A58FA860.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:267][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite
+[2024.05.07-17.52.24:267][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_1_asepriteBD6277D84936A166DB0190A081BEC4B8.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite.uasset'
+[2024.05.07-17.52.24:270][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite
+[2024.05.07-17.52.24:270][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_2_aseprite58A10C1345C09E0A0376D8B6381A9B7D.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite.uasset'
+[2024.05.07-17.52.24:275][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite
+[2024.05.07-17.52.24:275][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_3_aseprite80ED691B446959E23D55289C9852131D.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite.uasset'
+[2024.05.07-17.52.24:279][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite
+[2024.05.07-17.52.24:279][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_4_asepriteA1AD16424EC224AADF9DB6A064DF610E.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite.uasset'
+[2024.05.07-17.52.24:291][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite
+[2024.05.07-17.52.24:291][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_5_aseprite8D7B81094F85AE517F46A38BB35BA19D.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite.uasset'
+[2024.05.07-17.52.24:295][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite
+[2024.05.07-17.52.24:295][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__JumpRise_Shoot_0_asepritACF14E364AA2277E300D02BC8568F884.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:298][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite
+[2024.05.07-17.52.24:298][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Fall_Shoot_0_aseprite480D0C0C4164A7C4A03B0289F91C8ED3.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:301][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite
+[2024.05.07-17.52.24:301][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_Shoot_0_aseprite81D656894CFAA8EEEFE07192508C9BF7.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:305][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite
+[2024.05.07-17.52.24:305][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__WallSlide_0_asepriteF43A488C466149C63DC9739462AA63FF.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.uasset'
+[2024.05.07-17.52.24:309][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite
+[2024.05.07-17.52.24:309][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__WallSlide_Shoot_0_asepriB38CF3004A0E37AB8780B19A00D13D40.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.uasset'
+[2024.05.07-17.52.24:310][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/explosion/explosion" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/explosion/explosion.uasset" SILENT=true
+[2024.05.07-17.52.24:312][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/explosion/explosion
+[2024.05.07-17.52.24:312][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosionF0B944BA40B46902394EDFB09A33ACA0.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/explosion/explosion.uasset'
+[2024.05.07-17.52.24:315][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite
+[2024.05.07-17.52.24:315][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_0_asepriteB8C2E2AF469A87C9734E61BEE6581627.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite.uasset'
+[2024.05.07-17.52.24:319][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite
+[2024.05.07-17.52.24:319][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_1_asepriteD54F20A84F92245DF589FD87FF715055.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite.uasset'
+[2024.05.07-17.52.24:322][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite
+[2024.05.07-17.52.24:322][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_2_aseprite1D0DFA244614751697003AA8E39C74D7.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite.uasset'
+[2024.05.07-17.52.24:325][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite
+[2024.05.07-17.52.24:325][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_3_asepriteF851B63342197472C041BBB8D9D86304.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite.uasset'
+[2024.05.07-17.52.24:326][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/fireball/fireball" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/fireball.uasset" SILENT=true
+[2024.05.07-17.52.24:328][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/fireball/fireball
+[2024.05.07-17.52.24:328][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball126E152D4070626919C29782A866B488.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/fireball.uasset'
+[2024.05.07-17.52.24:329][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.uasset" SILENT=true
+[2024.05.07-17.52.24:331][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase
+[2024.05.07-17.52.24:331][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_0_ase95FB91074F61FEBA26419D8C5430C366.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.uasset'
+[2024.05.07-17.52.24:332][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.uasset" SILENT=true
+[2024.05.07-17.52.24:335][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase
+[2024.05.07-17.52.24:335][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_1_ase4A85235A491300FBAF9818BDBB5EFA03.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.uasset'
+[2024.05.07-17.52.24:336][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.uasset" SILENT=true
+[2024.05.07-17.52.24:338][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase
+[2024.05.07-17.52.24:338][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_2_ase659FB815495312617113238AC6320902.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.uasset'
+[2024.05.07-17.52.24:340][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.uasset" SILENT=true
+[2024.05.07-17.52.24:342][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase
+[2024.05.07-17.52.24:342][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_3_ase6B8060344C9CFA8D8C983FA1F18732E0.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.uasset'
+[2024.05.07-17.52.24:343][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/player-shoot/player-shoot" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot/player-shoot.uasset" SILENT=true
+[2024.05.07-17.52.24:345][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot/player-shoot
+[2024.05.07-17.52.24:345][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot435B0C9D4E8163A77DC70BA39C0E43F3.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot/player-shoot.uasset'
+[2024.05.07-17.52.24:350][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase
+[2024.05.07-17.52.24:350][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_0_aseE653B0BE4BCD1C3C249CC8AA9C0CB654.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase.uasset'
+[2024.05.07-17.52.24:353][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase
+[2024.05.07-17.52.24:353][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_1_aseDB06E5AB4C33443CA9CA0D99ED5D4EB1.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase.uasset'
+[2024.05.07-17.52.24:357][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase
+[2024.05.07-17.52.24:357][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_2_ase23DAE7184543AAF9FC1D32ACA9061DA3.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase.uasset'
+[2024.05.07-17.52.24:362][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase
+[2024.05.07-17.52.24:362][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_3_aseD186A0624A0BAB3A3D6179B9FF46E2CA.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase.uasset'
+[2024.05.07-17.52.24:365][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge
+[2024.05.07-17.52.24:365][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge2A08C5F24FD286FC2BD562A2BAA6FD4A.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-charge/player-shoot-charge.uasset'
+[2024.05.07-17.52.24:369][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite
+[2024.05.07-17.52.24:369][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_0_asepriteDC9213994F77911B54D58A9086AE8A84.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite.uasset'
+[2024.05.07-17.52.24:372][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite
+[2024.05.07-17.52.24:372][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_1_asepriteF32B4F364FE043EFE3904CA288A16A90.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite.uasset'
+[2024.05.07-17.52.24:376][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite
+[2024.05.07-17.52.24:376][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_2_aseprite561A9E224F7FE0EB425540A762CAFC70.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite.uasset'
+[2024.05.07-17.52.24:380][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite
+[2024.05.07-17.52.24:380][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_3_aseprite3D9762B8467414C74D6972BC33C3838C.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite.uasset'
+[2024.05.07-17.52.24:381][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit" FILE="C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-hit/player-shoot-hit.uasset" SILENT=true
+[2024.05.07-17.52.24:383][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit
+[2024.05.07-17.52.24:383][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit5BAA0A294673FEB7CE95869D37FD37EA.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-hit/player-shoot-hit.uasset'
+[2024.05.07-17.52.24:386][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite
+[2024.05.07-17.52.24:386][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_0_asepritA6E237774252ED8EE1E247B59B40F7F4.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite.uasset'
+[2024.05.07-17.52.24:389][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite
+[2024.05.07-17.52.24:389][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_1_aseprit0F136FF544FDA730DE17AAAA4633F0A3.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite.uasset'
+[2024.05.07-17.52.24:393][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite
+[2024.05.07-17.52.24:393][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_2_aseprit61BFC276435D73FCB0103AB4336A31E8.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite.uasset'
+[2024.05.07-17.52.24:396][225]LogSavePackage: Moving output files for package: /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite
+[2024.05.07-17.52.24:396][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_3_aseprit5DB8225748130FFA6C30A386332EFC09.tmp' to 'C:/UnrealProjects/MegaStar/Content/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite.uasset'
+[2024.05.07-17.52.24:397][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Idle" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Idle.uasset" SILENT=true
+[2024.05.07-17.52.24:399][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Idle
+[2024.05.07-17.52.24:399][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IdleB742135F4F58E822E809B2A62ECDDAA1.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Idle.uasset'
+[2024.05.07-17.52.24:400][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Climb" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Climb.uasset" SILENT=true
+[2024.05.07-17.52.24:402][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Climb
+[2024.05.07-17.52.24:402][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/ClimbA17C5C7B479A94BD6FDB0C9709629FF5.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Climb.uasset'
+[2024.05.07-17.52.24:403][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/ClimbShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/ClimbShoot.uasset" SILENT=true
+[2024.05.07-17.52.24:405][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/ClimbShoot
+[2024.05.07-17.52.24:405][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/ClimbShootAA5944C34EFCE0390F658E913657C90D.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/ClimbShoot.uasset'
+[2024.05.07-17.52.24:406][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Fall" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Fall.uasset" SILENT=true
+[2024.05.07-17.52.24:408][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Fall
+[2024.05.07-17.52.24:408][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/FallC62D7ABB46F89CBB93F3688B846E9BF6.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Fall.uasset'
+[2024.05.07-17.52.24:409][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/FallShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/FallShoot.uasset" SILENT=true
+[2024.05.07-17.52.24:411][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/FallShoot
+[2024.05.07-17.52.24:411][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/FallShoot4B67AF4F4FCDB0BC6203EB9A39D75A5D.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/FallShoot.uasset'
+[2024.05.07-17.52.24:412][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Hurt" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Hurt.uasset" SILENT=true
+[2024.05.07-17.52.24:414][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Hurt
+[2024.05.07-17.52.24:415][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/HurtC3A900C947EB5F1F13BAC99F6BC92E21.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Hurt.uasset'
+[2024.05.07-17.52.24:415][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/IdleShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/IdleShoot.uasset" SILENT=true
+[2024.05.07-17.52.24:417][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/IdleShoot
+[2024.05.07-17.52.24:418][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IdleShootFFEF7E50421303BC4F85A88AB536943D.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/IdleShoot.uasset'
+[2024.05.07-17.52.24:419][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/JumpRise" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRise.uasset" SILENT=true
+[2024.05.07-17.52.24:420][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/JumpRise
+[2024.05.07-17.52.24:421][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/JumpRiseFB97F48A4171D0FAB0C7068048F94433.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRise.uasset'
+[2024.05.07-17.52.24:422][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/JumpRiseShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRiseShoot.uasset" SILENT=true
+[2024.05.07-17.52.24:423][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/JumpRiseShoot
+[2024.05.07-17.52.24:424][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/JumpRiseShoot8569C4D9418FE5B05C2E1B9E538AE0C1.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/JumpRiseShoot.uasset'
+[2024.05.07-17.52.24:425][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Run" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Run.uasset" SILENT=true
+[2024.05.07-17.52.24:426][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Run
+[2024.05.07-17.52.24:427][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/RunB7AC07B64E74283A00A532B1BEDC181E.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Run.uasset'
+[2024.05.07-17.52.24:428][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/RunShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/RunShoot.uasset" SILENT=true
+[2024.05.07-17.52.24:430][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/RunShoot
+[2024.05.07-17.52.24:430][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/RunShoot01EFD07A42A8F8E9ECD742AFBCA626C8.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/RunShoot.uasset'
+[2024.05.07-17.52.24:431][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/Slide" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Slide.uasset" SILENT=true
+[2024.05.07-17.52.24:433][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/Slide
+[2024.05.07-17.52.24:433][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/Slide368B3D0348EF007C2404DA85AF65E1DB.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/Slide.uasset'
+[2024.05.07-17.52.24:434][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/WallSlide" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlide.uasset" SILENT=true
+[2024.05.07-17.52.24:436][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/WallSlide
+[2024.05.07-17.52.24:436][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/WallSlide3A66AE9F4575BB1A89EE3D8A96B5DAE7.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlide.uasset'
+[2024.05.07-17.52.24:437][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/AnimSequences/WallSlideShoot" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlideShoot.uasset" SILENT=true
+[2024.05.07-17.52.24:439][225]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/AnimSequences/WallSlideShoot
+[2024.05.07-17.52.24:439][225]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/WallSlideShoot0E9FEB544BF1070B8EEE7B92C8B7E21A.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/AnimSequences/WallSlideShoot.uasset'
+[2024.05.07-17.52.24:448][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 420 ms (total: 4.34 sec)
+[2024.05.07-17.52.24:465][225]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Characters/Enemies/bat/bat.bat
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase.bat__Idle_0_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase.bat__Idle_1_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase.bat__Idle_2_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase.bat__Idle_3_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase.bat__Idle_4_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Characters/Enemies/crab/crab.crab
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase.crab__Walk_0_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase.crab__Walk_1_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase.crab__Walk_2_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase.crab__Walk_3_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase.crab__Walk_4_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase.crab__Walk_5_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase.crab__Idle_0_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase.crab__Idle_1_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase.crab__Idle_2_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase.crab__Idle_3_ase
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye.fly-eye
+[2024.05.07-17.52.24:465][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite.fly-eye__Idle_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite.fly-eye__Idle_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite.fly-eye__Idle_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite.fly-eye__Idle_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Characters/Enemies/lizard/lizard.lizard
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite.lizard__Idle_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite.lizard__Idle_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite.lizard__Jump_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite.lizard__Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite.lizard__Shoot_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite.lizard__Shoot_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite.lizard__Shoot_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite.lizard__Shoot_4_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Characters/Player/player.player
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite.player__Climb_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite.player__Climb_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite.player__Climb_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite.player__Climb_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.player__Slide_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite.player__JumpRise_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite.player__Fall_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite.player__Hurt_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite.player__Hurt_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite.player__Idle_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite.player__Idle_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite.player__Idle_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite.player__Idle_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite.player__Idle_4_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite.player__Idle_5_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite.player__Run_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite.player__Run_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite.player__Run_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite.player__Run_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite.player__Run_4_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite.player__Run_5_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite.player__Idle_Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite.player__Idle_Shoot_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite.player__Idle_Shoot_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite.player__Run_Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite.player__Run_Shoot_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite.player__Run_Shoot_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite.player__Run_Shoot_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite.player__Run_Shoot_4_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite.player__Run_Shoot_5_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite.player__JumpRise_Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite.player__Fall_Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite.player__Climb_Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.player__WallSlide_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.player__WallSlide_Shoot_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Fx/explosion/explosion.explosion
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite.explosion__Loop_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite.explosion__Loop_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite.explosion__Loop_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite.explosion__Loop_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Fx/fireball/fireball.fireball
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.fireball__Loop_0_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.fireball__Loop_1_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.fireball__Loop_2_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.fireball__Loop_3_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Fx/player-shoot/player-shoot.player-shoot
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase.player-shoot_____Loop_0_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase.player-shoot_____Loop_1_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase.player-shoot_____Loop_2_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase.player-shoot_____Loop_3_ase
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge.player-shoot-charge
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite.player-shoot-charge_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite.player-shoot-charge_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite.player-shoot-charge_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite.player-shoot-charge_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperSpriteSheetImporter.PaperSpriteSheet /Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit.player-shoot-hit
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite.player-shoot-hit__Loop_0_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite.player-shoot-hit__Loop_1_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite.player-shoot-hit__Loop_2_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite.player-shoot-hit__Loop_3_aseprite
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Idle.Idle
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Climb.Climb
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/ClimbShoot.ClimbShoot
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Fall.Fall
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/FallShoot.FallShoot
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Hurt.Hurt
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/IdleShoot.IdleShoot
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/JumpRise.JumpRise
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/JumpRiseShoot.JumpRiseShoot
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Run.Run
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/RunShoot.RunShoot
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/Slide.Slide
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/WallSlide.WallSlide
+[2024.05.07-17.52.24:466][225]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/BP/Characters/Player/AnimSequences/WallSlideShoot.WallSlideShoot

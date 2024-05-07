@@ -2018,3 +2018,1360 @@ UnknownFunction []
 [2024.05.07-16.03.40:198][424]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssets/Environment/tileset.tileset
 [2024.05.07-16.03.40:198][424]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/PaperAssets/Environment/tileset-2.tileset-2
 [2024.05.07-16.03.41:230][541]LogSlate: Window '13 Texture2D Objects - Property Matrix Editor' being destroyed
+[2024.05.07-16.04.45:968][679]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.05.07-16.04.45:969][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.04.45:969][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.04.46:170][679]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.04.50:248][135]LogSlate: Window 'BP_ActionChar_BASE' being destroyed
+[2024.05.07-16.04.50:259][135]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.04.50:259][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.04.50:274][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.05.07-16.04.50:274][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.04.50:274][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.04.50:519][135]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.04.52:148][273]LogViewport: Scene viewport resized to 1525x875, mode Windowed.
+[2024.05.07-16.05.11:658][283]LogShaderCompilers: Display: ================================================
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Total job queries 70, among them cache hits 12 (17.14%)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 40 distinct outputs (75.47%)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: RAM used: 1.14 MiB of 1.60 GiB budget. Usage: 0.07%
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Shaders Compiled: 53
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Jobs assigned 54, completed 53 (98.15%)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Average time worker was idle: 49.65 s
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.39 s
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.67 s
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 0.76
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Shader code size: average 34.102 KiB, min 4.359 KiB, max 43.316 KiB
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.58 s
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Average processing rate: 11.57 jobs/sec
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Total thread time: 14.053 s
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Total thread preprocess time: 1.363 s
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Percentage time preprocessing: 9.70%
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Effective parallelization: 3.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.33 sec, max 0.41 sec, min 0.25 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.28 sec, max 0.33 sec, min 0.21 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 0.28 sec, max 0.34 sec, min 0.22 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.85% of total time (compiled   11 times, average 0.33 sec, max 0.41 sec, min 0.25 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.20% of total time (compiled   11 times, average 0.28 sec, max 0.33 sec, min 0.21 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.15% of total time (compiled    9 times, average 0.28 sec, max 0.34 sec, min 0.22 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.02% of total time (compiled    9 times, average 0.16 sec, max 0.24 sec, min 0.10 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.31% of total time (compiled    2 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2024.05.07-16.05.11:659][283]LogShaderCompilers: Display: ================================================
+[2024.05.07-16.05.17:076][731]BlueprintLog: New page: Compile BP_ActionChar_BASE
+[2024.05.07-16.05.17:128][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.07-16.05.18:214][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.05.18:268][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/BP_ActionChar_BASE" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/BP_ActionChar_BASE.uasset" SILENT=true
+[2024.05.07-16.05.18:275][819]LogSavePackage: Moving output files for package: /Game/BP/Characters/BP_ActionChar_BASE
+[2024.05.07-16.05.18:275][819]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/BP_ActionChar_BASE5B920B244899B60469EFCBB957271052.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/BP_ActionChar_BASE.uasset'
+[2024.05.07-16.05.18:281][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.85 sec)
+[2024.05.07-16.05.18:282][819]AssetCheck: New page: Asset Save: BP_ActionChar_BASE
+[2024.05.07-16.05.18:282][819]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Characters/BP_ActionChar_BASE.BP_ActionChar_BASE
+[2024.05.07-16.05.19:495][908]LogViewport: Scene viewport resized to 1523x898, mode Windowed.
+[2024.05.07-16.05.19:578][910]LogViewport: Scene viewport resized to 535x229, mode Windowed.
+[2024.05.07-16.05.19:644][911]LogViewport: Scene viewport resized to 467x183, mode Windowed.
+[2024.05.07-16.05.20:260][983]LogViewport: Scene viewport resized to 1525x875, mode Windowed.
+[2024.05.07-16.05.20:593][ 18]LogSlate: Window 'BP_ActionChar_BASE' being destroyed
+[2024.05.07-16.05.24:290][436]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.05.24:301][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.05.24:303][436]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:05:24)
+[2024.05.07-16.05.24:307][436]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.07-16.05.24:307][436]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.07-16.05.24:307][436]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.05.24:309][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002145s)
+[2024.05.07-16.05.24:309][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.002175s)
+[2024.05.07-16.05.24:321][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.07-16.05.24:322][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.05.24:323][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.05.24:323][436]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.05.24:323][436]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2024.05.07-16.05.24:323][436]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.05.24:324][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.05.24:324][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.05.24:324][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.05.24:324][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.05.24:324][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.05.24:326][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.05.24:348][436]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.05.24:349][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.05.24:349][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.05.24:349][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.05.24:349][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.07-16.05.24:349][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.07-16.05.24:351][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.07-16.05.24:351][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.07-16.05.24:351][436]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.07-16.05.24:351][436]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Debug'.
+[2024.05.07-16.05.24:351][436]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.07-16.05.24:354][436]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.05.24:354][436]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.05.24
+[2024.05.07-16.05.24:359][436]LogWorld: Bringing up level for play took: 0.004720
+[2024.05.07-16.05.24:360][436]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.05.07-16.05.24:368][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.05.24:368][436]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.05.24:368][436]PIE: Server logged in
+[2024.05.07-16.05.24:369][436]PIE: Play in editor total start time 0.072 seconds.
+[2024.05.07-16.05.28:677][938]LogViewport: Scene viewport resized to 2038x450, mode Windowed.
+[2024.05.07-16.05.28:698][939]LogViewport: Scene viewport resized to 2038x459, mode Windowed.
+[2024.05.07-16.05.28:734][940]LogViewport: Scene viewport resized to 2038x516, mode Windowed.
+[2024.05.07-16.05.28:762][941]LogViewport: Scene viewport resized to 2038x604, mode Windowed.
+[2024.05.07-16.05.28:794][942]LogViewport: Scene viewport resized to 2038x655, mode Windowed.
+[2024.05.07-16.05.28:831][943]LogViewport: Scene viewport resized to 2038x663, mode Windowed.
+[2024.05.07-16.05.28:876][946]LogViewport: Scene viewport resized to 2038x664, mode Windowed.
+[2024.05.07-16.05.28:900][947]LogViewport: Scene viewport resized to 2038x667, mode Windowed.
+[2024.05.07-16.05.28:938][948]LogViewport: Scene viewport resized to 2038x677, mode Windowed.
+[2024.05.07-16.05.28:968][949]LogViewport: Scene viewport resized to 2038x685, mode Windowed.
+[2024.05.07-16.05.28:997][950]LogViewport: Scene viewport resized to 2038x693, mode Windowed.
+[2024.05.07-16.05.29:029][951]LogViewport: Scene viewport resized to 2038x705, mode Windowed.
+[2024.05.07-16.05.29:100][957]LogViewport: Scene viewport resized to 2038x707, mode Windowed.
+[2024.05.07-16.05.29:124][958]LogViewport: Scene viewport resized to 2038x713, mode Windowed.
+[2024.05.07-16.05.29:165][959]LogViewport: Scene viewport resized to 2038x724, mode Windowed.
+[2024.05.07-16.05.29:193][960]LogViewport: Scene viewport resized to 2038x727, mode Windowed.
+[2024.05.07-16.05.29:223][961]LogViewport: Scene viewport resized to 2038x729, mode Windowed.
+[2024.05.07-16.05.29:252][962]LogViewport: Scene viewport resized to 2038x741, mode Windowed.
+[2024.05.07-16.05.29:282][963]LogViewport: Scene viewport resized to 2038x753, mode Windowed.
+[2024.05.07-16.05.30:861][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.05.30:861][134]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.05.30:861][134]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.05.30:861][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.05.30:867][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.05.30:871][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.05.30:884][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.05.30:884][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.07-16.05.30:884][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.07-16.05.30:886][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.07-16.05.30:892][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.07-16.05.30:929][137]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.05.07-16.05.35:998][718]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.05.36:057][719]LogViewport: Scene viewport resized to 643x238, mode Windowed.
+[2024.05.07-16.05.39:256][935]Cmd: DELETE
+[2024.05.07-16.05.39:258][935]Cmd: ACTOR DELETE
+[2024.05.07-16.05.39:263][935]LogEditorActor: Deleted Actor: BP_Player_C
+[2024.05.07-16.05.39:283][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.07-16.05.39:284][935]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.05.07-16.05.41:267][168]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.05.41:275][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.05.41:275][168]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:05:41)
+[2024.05.07-16.05.41:275][168]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.05.41:276][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001367s)
+[2024.05.07-16.05.41:276][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001391s)
+[2024.05.07-16.05.41:289][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.07-16.05.41:290][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.05.41:290][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.05.41:290][168]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.05.41:290][168]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2024.05.07-16.05.41:290][168]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.07-16.05.41:290][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.05.41:290][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.05.41:290][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.05.41:290][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.05.41:290][168]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.05.41:291][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.05.41:291][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.05.41:291][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.05.41:291][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.05.41:291][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.05.41:291][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.05.41:293][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.05.41:315][168]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.05.41:315][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.05.41:315][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.05.41:315][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.05.41:316][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.07-16.05.41:316][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.07-16.05.41:317][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.07-16.05.41:317][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.07-16.05.41:317][168]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.07-16.05.41:317][168]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Debug'.
+[2024.05.07-16.05.41:317][168]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.07-16.05.41:319][168]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.05.41:320][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.05.41
+[2024.05.07-16.05.41:320][168]LogWorld: Bringing up level for play took: 0.000446
+[2024.05.07-16.05.41:322][168]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.07-16.05.41:323][168]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.05.41:323][168]PIE: Server logged in
+[2024.05.07-16.05.41:323][168]PIE: Play in editor total start time 0.049 seconds.
+[2024.05.07-16.05.45:307][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.05.45:308][628]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.05.45:308][628]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.05.45:308][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.05.45:310][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.05.45:314][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.05.45:326][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.05.45:326][628]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.07-16.05.45:326][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.07-16.05.45:328][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.07-16.05.45:333][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.07-16.05.45:384][630]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.07-16.05.46:676][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.05.46:730][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Debug" FILE="C:/UnrealProjects/MegaStar/Content/Maps/MAP_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-16.05.46:762][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.07-16.05.46:771][784]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.05.07-16.05.46:772][784]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/MAP_Debug3A6071E34BE9DF29C277EAAAA53A417B.tmp' to 'C:/UnrealProjects/MegaStar/Content/Maps/MAP_Debug.umap'
+[2024.05.07-16.05.46:778][784]LogFileHelpers: Saving map 'MAP_Debug' took 0.049
+[2024.05.07-16.05.46:784][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.96 sec)
+[2024.05.07-16.05.46:785][784]AssetCheck: New page: Asset Save: MAP_Debug
+[2024.05.07-16.05.46:785][784]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Debug.MAP_Debug
+[2024.05.07-16.05.59:501][937]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.05.59:508][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.05.59:508][937]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:05:59)
+[2024.05.07-16.05.59:508][937]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.05.59:509][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001439s)
+[2024.05.07-16.05.59:509][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001464s)
+[2024.05.07-16.05.59:522][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.07-16.05.59:523][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.05.59:523][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.05.59:523][937]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.05.59:524][937]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2024.05.07-16.05.59:524][937]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.05.59:524][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.05.59:524][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.05.59:524][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.05.59:524][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.05.59:524][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.05.59:526][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.05.59:549][937]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.05.59:549][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.05.59:549][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.05.59:549][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.05.59:549][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.07-16.05.59:549][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.07-16.05.59:551][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.07-16.05.59:551][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.07-16.05.59:551][937]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.07-16.05.59:551][937]LogAudio: Display: Audio Device (ID: 4) registered with world 'MAP_Debug'.
+[2024.05.07-16.05.59:551][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.07-16.05.59:553][937]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.05.59:554][937]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.05.59
+[2024.05.07-16.05.59:554][937]LogWorld: Bringing up level for play took: 0.000516
+[2024.05.07-16.05.59:556][937]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.05.07-16.05.59:557][937]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.05.59:557][937]PIE: Server logged in
+[2024.05.07-16.05.59:557][937]PIE: Play in editor total start time 0.049 seconds.
+[2024.05.07-16.06.37:454][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.06.37:454][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.06.37:454][921]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.06.37:454][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.06.37:457][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.06.37:461][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.06.37:470][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.06.37:470][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.07-16.06.37:470][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.07-16.06.37:472][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.07-16.06.37:477][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.07-16.06.37:521][922]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.05.07-16.06.44:913][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.06.44:920][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.06.44:921][757]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:06:44)
+[2024.05.07-16.06.44:921][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.06.44:922][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001449s)
+[2024.05.07-16.06.44:922][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001471s)
+[2024.05.07-16.06.44:935][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.07-16.06.44:936][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.06.44:936][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.06.44:936][757]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.06.44:937][757]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2024.05.07-16.06.44:937][757]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.06.44:937][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.06.44:937][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.06.44:937][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.06.44:937][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.06.44:937][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.06.44:939][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.06.44:961][757]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.06.44:961][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.06.44:961][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.06.44:961][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.06.44:961][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.07-16.06.44:961][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.07-16.06.44:963][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.07-16.06.44:963][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.07-16.06.44:963][757]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.07-16.06.44:963][757]LogAudio: Display: Audio Device (ID: 5) registered with world 'MAP_Debug'.
+[2024.05.07-16.06.44:963][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.07-16.06.44:966][757]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.06.44:966][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.06.44
+[2024.05.07-16.06.44:966][757]LogWorld: Bringing up level for play took: 0.000495
+[2024.05.07-16.06.44:968][757]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.05.07-16.06.44:969][757]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.06.44:969][757]PIE: Server logged in
+[2024.05.07-16.06.44:970][757]PIE: Play in editor total start time 0.05 seconds.
+[2024.05.07-16.06.49:473][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.06.49:473][281]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.06.49:473][281]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.06.49:473][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.06.49:475][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.06.49:479][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.06.49:491][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.06.49:491][281]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.07-16.06.49:491][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.07-16.06.49:492][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.07-16.06.49:497][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.07-16.06.49:548][282]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.05.07-16.07.02:961][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.07.03:062][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Debug" FILE="C:/UnrealProjects/MegaStar/Content/Maps/MAP_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-16.07.03:093][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.07-16.07.03:103][328]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.05.07-16.07.03:104][328]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/MAP_Debug6926D4BF422C8F48401513B71BBC91C5.tmp' to 'C:/UnrealProjects/MegaStar/Content/Maps/MAP_Debug.umap'
+[2024.05.07-16.07.03:111][328]LogFileHelpers: Saving map 'MAP_Debug' took 0.048
+[2024.05.07-16.07.03:117][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 2.11 sec)
+[2024.05.07-16.07.03:118][328]AssetCheck: New page: Asset Save: MAP_Debug
+[2024.05.07-16.07.03:118][328]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Debug.MAP_Debug
+[2024.05.07-16.07.05:013][545]LogViewport: Scene viewport resized to 2038x754, mode Windowed.
+[2024.05.07-16.07.05:054][548]LogViewport: Scene viewport resized to 2038x750, mode Windowed.
+[2024.05.07-16.07.05:081][549]LogViewport: Scene viewport resized to 2038x727, mode Windowed.
+[2024.05.07-16.07.05:112][550]LogViewport: Scene viewport resized to 2038x695, mode Windowed.
+[2024.05.07-16.07.05:145][551]LogViewport: Scene viewport resized to 2038x648, mode Windowed.
+[2024.05.07-16.07.05:176][552]LogViewport: Scene viewport resized to 2038x628, mode Windowed.
+[2024.05.07-16.07.05:207][553]LogViewport: Scene viewport resized to 2038x618, mode Windowed.
+[2024.05.07-16.07.05:238][554]LogViewport: Scene viewport resized to 2038x605, mode Windowed.
+[2024.05.07-16.07.05:268][555]LogViewport: Scene viewport resized to 2038x593, mode Windowed.
+[2024.05.07-16.07.05:299][556]LogViewport: Scene viewport resized to 2038x578, mode Windowed.
+[2024.05.07-16.07.05:331][557]LogViewport: Scene viewport resized to 2038x555, mode Windowed.
+[2024.05.07-16.07.05:362][558]LogViewport: Scene viewport resized to 2038x536, mode Windowed.
+[2024.05.07-16.07.05:400][559]LogViewport: Scene viewport resized to 2038x525, mode Windowed.
+[2024.05.07-16.07.05:431][560]LogViewport: Scene viewport resized to 2038x524, mode Windowed.
+[2024.05.07-16.07.05:496][565]LogViewport: Scene viewport resized to 2038x520, mode Windowed.
+[2024.05.07-16.07.05:526][566]LogViewport: Scene viewport resized to 2038x514, mode Windowed.
+[2024.05.07-16.07.05:560][567]LogViewport: Scene viewport resized to 2038x512, mode Windowed.
+[2024.05.07-16.07.05:589][568]LogViewport: Scene viewport resized to 2038x510, mode Windowed.
+[2024.05.07-16.07.05:621][569]LogViewport: Scene viewport resized to 2038x506, mode Windowed.
+[2024.05.07-16.07.05:652][570]LogViewport: Scene viewport resized to 2038x504, mode Windowed.
+[2024.05.07-16.07.05:683][571]LogViewport: Scene viewport resized to 2038x503, mode Windowed.
+[2024.05.07-16.07.38:123][624]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.07-16.07.38:136][624]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.07-16.07.38:144][625]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.07-16.07.40:398][896]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2024.05.07-16.07.40:398][896]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.07-16.07.43:477][244]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.07-16.07.43:488][244]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.07-16.07.43:505][246]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.07-16.07.50:167][ 46]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2024.05.07-16.07.50:168][ 46]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.07-16.07.55:716][663]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.07-16.07.58:671][967]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.05.07-16.07.58:676][967]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.05.07-16.07.58:694][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.05.07-16.08.02:265][398]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Jump
+[2024.05.07-16.08.02:266][398]LogContentBrowser: End creating deferred item NewInputAction
+[2024.05.07-16.08.06:385][832]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.05.07-16.08.06:391][832]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.05.07-16.08.06:400][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.05.07-16.08.09:961][261]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.05.07-16.08.09:962][261]LogContentBrowser: End creating deferred item NewInputAction
+[2024.05.07-16.08.11:666][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.08.11:724][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Debug" FILE="C:/UnrealProjects/MegaStar/Content/Maps/MAP_Debug.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-16.08.11:760][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.07-16.08.11:770][457]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.05.07-16.08.11:771][457]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/MAP_Debug00F3C6CB4EC11CE4960173AA4D2B7CDD.tmp' to 'C:/UnrealProjects/MegaStar/Content/Maps/MAP_Debug.umap'
+[2024.05.07-16.08.11:777][457]LogFileHelpers: Saving map 'MAP_Debug' took 0.054
+[2024.05.07-16.08.11:783][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.23 sec)
+[2024.05.07-16.08.11:784][457]AssetCheck: New page: Asset Save: MAP_Debug
+[2024.05.07-16.08.11:784][457]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Debug.MAP_Debug
+[2024.05.07-16.08.12:472][535]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Jump.IA_Jump
+[2024.05.07-16.08.15:042][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.08.15:091][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Jump" FILE="C:/UnrealProjects/MegaStar/Content/Input/Actions/IA_Jump.uasset" SILENT=true
+[2024.05.07-16.08.15:094][832]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Jump
+[2024.05.07-16.08.15:094][832]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IA_Jump2E27F38E43E36F7BA9C0288116A6CEEC.tmp' to 'C:/UnrealProjects/MegaStar/Content/Input/Actions/IA_Jump.uasset'
+[2024.05.07-16.08.15:100][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.29 sec)
+[2024.05.07-16.08.15:100][832]AssetCheck: New page: Asset Save: IA_Jump
+[2024.05.07-16.08.15:100][832]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/Actions/IA_Jump.IA_Jump
+[2024.05.07-16.08.19:116][275]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2024.05.07-16.08.22:482][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.08.22:529][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Move" FILE="C:/UnrealProjects/MegaStar/Content/Input/Actions/IA_Move.uasset" SILENT=true
+[2024.05.07-16.08.22:531][666]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Move
+[2024.05.07-16.08.22:531][666]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IA_MoveEF3FB7BF4345AA9D2A76D3BFE823F431.tmp' to 'C:/UnrealProjects/MegaStar/Content/Input/Actions/IA_Move.uasset'
+[2024.05.07-16.08.22:537][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.34 sec)
+[2024.05.07-16.08.22:538][666]AssetCheck: New page: Asset Save: IA_Move
+[2024.05.07-16.08.22:538][666]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2024.05.07-16.08.45:566][157]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.05.07-16.08.45:571][157]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.05.07-16.08.45:584][158]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.05.07-16.09.18:770][166]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> AIMC_
+[2024.05.07-16.09.18:771][166]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.05.07-16.09.36:794][579]LogContentBrowser: Attempting asset rename: AIMC_ -> IAMC_
+[2024.05.07-16.09.36:836][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.09.36:893][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IAMC_" FILE="C:/UnrealProjects/MegaStar/Content/Input/IAMC_.uasset" SILENT=true
+[2024.05.07-16.09.36:896][579]LogSavePackage: Moving output files for package: /Game/Input/IAMC_
+[2024.05.07-16.09.36:896][579]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IAMC_7BC92B364D56101F07CA41954C93951B.tmp' to 'C:/UnrealProjects/MegaStar/Content/Input/IAMC_.uasset'
+[2024.05.07-16.09.36:901][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.41 sec)
+[2024.05.07-16.09.36:926][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.07-16.09.36:940][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.07-16.09.36:951][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.07-16.09.36:952][579]AssetCheck: New page: Asset Save: IAMC_
+[2024.05.07-16.09.36:952][579]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IAMC_.IAMC_
+[2024.05.07-16.09.50:448][151]LogContentBrowser: Attempting asset rename: IAMC_ -> IMC_Action
+[2024.05.07-16.09.50:474][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.09.50:532][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Action" FILE="C:/UnrealProjects/MegaStar/Content/Input/IMC_Action.uasset" SILENT=true
+[2024.05.07-16.09.50:535][151]LogSavePackage: Moving output files for package: /Game/Input/IMC_Action
+[2024.05.07-16.09.50:535][151]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IMC_Action3F2D166245B6C4F156E6E38AAF7EC5D0.tmp' to 'C:/UnrealProjects/MegaStar/Content/Input/IMC_Action.uasset'
+[2024.05.07-16.09.50:541][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.47 sec)
+[2024.05.07-16.09.50:563][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.07-16.09.50:576][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.07-16.09.50:589][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.07-16.09.50:591][151]AssetCheck: New page: Asset Save: IMC_Action
+[2024.05.07-16.09.50:591][151]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Action.IMC_Action
+[2024.05.07-16.09.52:326][354]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Action.IMC_Action
+[2024.05.07-16.10.59:048][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.10.59:095][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Action" FILE="C:/UnrealProjects/MegaStar/Content/Input/IMC_Action.uasset" SILENT=true
+[2024.05.07-16.10.59:098][254]LogSavePackage: Moving output files for package: /Game/Input/IMC_Action
+[2024.05.07-16.10.59:099][254]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/IMC_Action579A9D6045B5D00EAB6F86AEB1B23162.tmp' to 'C:/UnrealProjects/MegaStar/Content/Input/IMC_Action.uasset'
+[2024.05.07-16.10.59:105][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.53 sec)
+[2024.05.07-16.10.59:106][254]AssetCheck: New page: Asset Save: IMC_Action
+[2024.05.07-16.10.59:106][254]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/IMC_Action.IMC_Action
+[2024.05.07-16.11.34:269][682]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.11.40:038][343]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.11.43:395][697]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.11.44:183][779]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.11.58:195][925]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.11.58:195][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.12.03:236][476]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Characters/Player/BP_Player.BP_Player
+[2024.05.07-16.12.03:236][476]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.12.03:237][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.12.03:455][476]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.05.07-16.14.27:597][214]BlueprintLog: New page: Compile BP_Player
+[2024.05.07-16.14.27:625][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.07-16.14.28:653][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.14.28:699][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/BP_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset" SILENT=true
+[2024.05.07-16.14.28:707][312]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/BP_Player
+[2024.05.07-16.14.28:708][312]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/BP_PlayerD651B540400C46596B7E8AB3DCF02BFA.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset'
+[2024.05.07-16.14.28:714][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.59 sec)
+[2024.05.07-16.14.28:715][312]AssetCheck: New page: Asset Save: BP_Player
+[2024.05.07-16.14.28:715][312]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Characters/Player/BP_Player.BP_Player
+[2024.05.07-16.14.31:086][549]LogSlate: Window 'BP_Player' being destroyed
+[2024.05.07-16.14.39:173][497]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.14.39:181][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.14.39:181][497]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:14:39)
+[2024.05.07-16.14.39:221][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.14.39:223][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001516s)
+[2024.05.07-16.14.39:223][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001547s)
+[2024.05.07-16.14.39:236][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.07-16.14.39:238][497]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.14.39:238][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.14.39:238][497]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.14.39:239][497]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2024.05.07-16.14.39:239][497]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.14.39:239][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.14.39:239][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.14.39:239][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.14.39:239][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.14.39:239][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.14.39:241][497]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.14.39:264][497]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.14.39:265][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.14.39:265][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.14.39:265][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.14.39:265][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.07-16.14.39:265][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.07-16.14.39:266][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.07-16.14.39:266][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.07-16.14.39:266][497]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.07-16.14.39:266][497]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_Debug'.
+[2024.05.07-16.14.39:266][497]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.07-16.14.39:269][497]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.14.39:269][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.14.39
+[2024.05.07-16.14.39:269][497]LogWorld: Bringing up level for play took: 0.000488
+[2024.05.07-16.14.39:271][497]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.05.07-16.14.39:272][497]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.14.39:275][497]PIE: Server logged in
+[2024.05.07-16.14.39:275][497]PIE: Play in editor total start time 0.095 seconds.
+[2024.05.07-16.14.45:521][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.14.45:521][230]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.14.45:521][230]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.14.45:521][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.14.45:524][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.14.45:527][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.14.45:540][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.14.45:540][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.07-16.14.45:540][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.07-16.14.45:542][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.07-16.14.45:547][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.07-16.14.45:593][231]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.07-16.14.46:952][390]LogViewport: Scene viewport resized to 2038x502, mode Windowed.
+[2024.05.07-16.14.46:982][391]LogViewport: Scene viewport resized to 2038x510, mode Windowed.
+[2024.05.07-16.14.47:015][392]LogViewport: Scene viewport resized to 2038x538, mode Windowed.
+[2024.05.07-16.14.47:048][393]LogViewport: Scene viewport resized to 2038x592, mode Windowed.
+[2024.05.07-16.14.47:082][394]LogViewport: Scene viewport resized to 2038x669, mode Windowed.
+[2024.05.07-16.14.47:123][395]LogViewport: Scene viewport resized to 2038x716, mode Windowed.
+[2024.05.07-16.14.47:157][396]LogViewport: Scene viewport resized to 2038x731, mode Windowed.
+[2024.05.07-16.14.47:193][397]LogViewport: Scene viewport resized to 2038x736, mode Windowed.
+[2024.05.07-16.14.47:226][398]LogViewport: Scene viewport resized to 2038x739, mode Windowed.
+[2024.05.07-16.14.47:260][399]LogViewport: Scene viewport resized to 2038x741, mode Windowed.
+[2024.05.07-16.14.47:296][400]LogViewport: Scene viewport resized to 2038x742, mode Windowed.
+[2024.05.07-16.14.47:334][402]LogViewport: Scene viewport resized to 2038x743, mode Windowed.
+[2024.05.07-16.14.47:365][403]LogViewport: Scene viewport resized to 2038x748, mode Windowed.
+[2024.05.07-16.14.47:400][404]LogViewport: Scene viewport resized to 2038x753, mode Windowed.
+[2024.05.07-16.14.47:436][405]LogViewport: Scene viewport resized to 2038x761, mode Windowed.
+[2024.05.07-16.14.47:472][406]LogViewport: Scene viewport resized to 2038x768, mode Windowed.
+[2024.05.07-16.14.47:505][407]LogViewport: Scene viewport resized to 2038x771, mode Windowed.
+[2024.05.07-16.14.47:555][410]LogViewport: Scene viewport resized to 2038x773, mode Windowed.
+[2024.05.07-16.14.47:585][411]LogViewport: Scene viewport resized to 2038x781, mode Windowed.
+[2024.05.07-16.14.47:621][412]LogViewport: Scene viewport resized to 2038x792, mode Windowed.
+[2024.05.07-16.14.47:655][413]LogViewport: Scene viewport resized to 2038x800, mode Windowed.
+[2024.05.07-16.14.47:688][414]LogViewport: Scene viewport resized to 2038x802, mode Windowed.
+[2024.05.07-16.14.48:835][544]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.14.48:843][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.14.48:843][544]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:14:48)
+[2024.05.07-16.14.48:843][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.14.48:844][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001455s)
+[2024.05.07-16.14.48:844][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001480s)
+[2024.05.07-16.14.48:855][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.07-16.14.48:857][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.14.48:857][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.14.48:857][544]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.14.48:857][544]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2024.05.07-16.14.48:857][544]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.14.48:857][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.14.48:857][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.14.48:858][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.14.48:858][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.14.48:858][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.14.48:860][544]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.14.48:881][544]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.14.48:882][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.14.48:882][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.14.48:882][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.14.48:882][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.07-16.14.48:882][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.07-16.14.48:884][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.07-16.14.48:884][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.07-16.14.48:884][544]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.07-16.14.48:884][544]LogAudio: Display: Audio Device (ID: 7) registered with world 'MAP_Debug'.
+[2024.05.07-16.14.48:884][544]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.07-16.14.48:886][544]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.14.48:886][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.14.48
+[2024.05.07-16.14.48:887][544]LogWorld: Bringing up level for play took: 0.000461
+[2024.05.07-16.14.48:888][544]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.07-16.14.48:889][544]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.14.48:889][544]PIE: Server logged in
+[2024.05.07-16.14.48:890][544]PIE: Play in editor total start time 0.047 seconds.
+[2024.05.07-16.14.54:880][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.14.54:880][246]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.14.54:880][246]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.14.54:880][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.14.54:883][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.14.54:887][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.14.54:900][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.14.54:900][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.07-16.14.54:900][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.07-16.14.54:901][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.07-16.14.54:907][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.07-16.14.54:956][247]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.07-16.15.34:037][546]BlueprintLog: New page: Compile BP_Player
+[2024.05.07-16.15.34:064][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.07-16.15.34:921][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.15.34:960][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/BP_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset" SILENT=true
+[2024.05.07-16.15.34:968][637]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/BP_Player
+[2024.05.07-16.15.34:969][637]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/BP_PlayerFA28EC0247FF3866E26261AFCA4D27F7.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset'
+[2024.05.07-16.15.34:975][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.65 sec)
+[2024.05.07-16.15.34:976][637]AssetCheck: New page: Asset Save: BP_Player
+[2024.05.07-16.15.34:976][637]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Characters/Player/BP_Player.BP_Player
+[2024.05.07-16.18.40:565][619]BlueprintLog: New page: Compile BP_Player
+[2024.05.07-16.18.40:593][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.07-16.18.41:599][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.18.41:655][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/BP_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset" SILENT=true
+[2024.05.07-16.18.41:663][727]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/BP_Player
+[2024.05.07-16.18.41:664][727]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/BP_Player0057F7A04028CE237D92A892AD5F6E24.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset'
+[2024.05.07-16.18.41:671][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.72 sec)
+[2024.05.07-16.18.41:672][727]AssetCheck: New page: Asset Save: BP_Player
+[2024.05.07-16.18.41:672][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Characters/Player/BP_Player.BP_Player
+[2024.05.07-16.18.44:351][ 22]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.18.44:359][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.18.44:359][ 22]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:18:44)
+[2024.05.07-16.18.44:381][ 22]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.18.44:382][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001531s)
+[2024.05.07-16.18.44:382][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001565s)
+[2024.05.07-16.18.44:396][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.07-16.18.44:397][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.18.44:397][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.18.44:398][ 22]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.18.44:398][ 22]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2024.05.07-16.18.44:398][ 22]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.18.44:398][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.18.44:398][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.18.44:399][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.18.44:399][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.18.44:399][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.18.44:401][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.18.44:422][ 22]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.18.44:423][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.18.44:423][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.18.44:423][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.18.44:423][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.07-16.18.44:423][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.07-16.18.44:425][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.07-16.18.44:425][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.07-16.18.44:425][ 22]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.07-16.18.44:425][ 22]LogAudio: Display: Audio Device (ID: 8) registered with world 'MAP_Debug'.
+[2024.05.07-16.18.44:425][ 22]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.07-16.18.44:428][ 22]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.18.44:428][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.18.44
+[2024.05.07-16.18.44:428][ 22]LogWorld: Bringing up level for play took: 0.000458
+[2024.05.07-16.18.44:430][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.05.07-16.18.44:431][ 22]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.18.44:431][ 22]PIE: Server logged in
+[2024.05.07-16.18.44:432][ 22]PIE: Play in editor total start time 0.073 seconds.
+[2024.05.07-16.18.59:589][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.18.59:589][826]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.18.59:589][826]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.18.59:589][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.18.59:592][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.18.59:596][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.18.59:608][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.18.59:608][826]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.07-16.18.59:608][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.07-16.18.59:610][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.07-16.18.59:615][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.07-16.18.59:662][827]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.05.07-16.22.43:476][943]BlueprintLog: New page: Compile BP_Player
+[2024.05.07-16.22.43:505][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.07-16.22.58:124][276]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.22.58:132][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.22.58:132][276]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:22:58)
+[2024.05.07-16.22.58:158][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.22.58:160][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001540s)
+[2024.05.07-16.22.58:160][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001570s)
+[2024.05.07-16.22.58:171][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.07-16.22.58:172][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.22.58:172][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.22.58:173][276]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.22.58:173][276]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2024.05.07-16.22.58:173][276]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.22.58:173][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.22.58:173][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.22.58:173][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.22.58:173][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.22.58:173][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.22.58:175][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.22.58:198][276]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.22.58:199][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.22.58:199][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.22.58:199][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.22.58:199][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.07-16.22.58:199][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.07-16.22.58:201][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.07-16.22.58:201][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.07-16.22.58:201][276]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.07-16.22.58:201][276]LogAudio: Display: Audio Device (ID: 9) registered with world 'MAP_Debug'.
+[2024.05.07-16.22.58:201][276]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.07-16.22.58:203][276]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.22.58:204][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.22.58
+[2024.05.07-16.22.58:204][276]LogWorld: Bringing up level for play took: 0.000468
+[2024.05.07-16.22.58:206][276]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.05.07-16.22.58:207][276]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.22.58:207][276]PIE: Server logged in
+[2024.05.07-16.22.58:207][276]PIE: Play in editor total start time 0.076 seconds.
+[2024.05.07-16.23.09:958][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.23.09:958][556]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.23.09:958][556]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.23.09:958][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.23.09:960][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.23.09:965][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.23.09:977][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.23.09:977][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.07-16.23.09:978][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.07-16.23.09:979][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.07-16.23.09:984][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.07-16.23.10:042][557]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.05.07-16.23.34:703][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.07-16.23.34:704][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.014
+[2024.05.07-16.23.34:705][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.05.07-16.23.34:705][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Characters/Player/BP_Player]
+[2024.05.07-16.23.34:705][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/BP_Player" FILE="C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/BP/Characters/Player/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.07-16.23.34:716][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Characters/Player/BP_Player_Auto1
+[2024.05.07-16.23.34:716][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/BP_Player_Auto14D1E4F364E8AD3A80E9923B3DB651A17.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/BP/Characters/Player/BP_Player_Auto1.uasset'
+[2024.05.07-16.23.34:717][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Enemies/bat/bat] ([1] browsable assets)...
+[2024.05.07-16.23.34:717][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/bat/bat]
+[2024.05.07-16.23.34:719][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/bat/bat_Auto1
+[2024.05.07-16.23.34:719][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat_Auto184AEFA1740478CFA9739DC8A743955BB.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/bat/bat_Auto1.uasset'
+[2024.05.07-16.23.34:720][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:724][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase.bat__Idle_0_ase]
+[2024.05.07-16.23.34:724][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase]
+[2024.05.07-16.23.34:728][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase_Auto1
+[2024.05.07-16.23.34:728][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_0_ase_Auto17B918C6A416A2C785635B183CC442BE6.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_0_ase_Auto1.uasset'
+[2024.05.07-16.23.34:729][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:732][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase.bat__Idle_1_ase]
+[2024.05.07-16.23.34:732][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase]
+[2024.05.07-16.23.34:735][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase_Auto1
+[2024.05.07-16.23.34:735][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_1_ase_Auto1BD46DE2C4AD2A81ADDEEF3A702881959.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_1_ase_Auto1.uasset'
+[2024.05.07-16.23.34:736][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:745][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase.bat__Idle_2_ase]
+[2024.05.07-16.23.34:745][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase]
+[2024.05.07-16.23.34:748][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase_Auto1
+[2024.05.07-16.23.34:748][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_2_ase_Auto13DFAA6EB4790FDE856C1C9BE678C0555.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_2_ase_Auto1.uasset'
+[2024.05.07-16.23.34:750][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:753][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase.bat__Idle_3_ase]
+[2024.05.07-16.23.34:753][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase]
+[2024.05.07-16.23.34:756][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase_Auto1
+[2024.05.07-16.23.34:756][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_3_ase_Auto1A32D28664D24EF56C1BD12AFF47A988A.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_3_ase_Auto1.uasset'
+[2024.05.07-16.23.34:757][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:761][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase.bat__Idle_4_ase]
+[2024.05.07-16.23.34:761][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase]
+[2024.05.07-16.23.34:764][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase_Auto1
+[2024.05.07-16.23.34:764][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/bat__Idle_4_ase_Auto175B8452A4BAC19A3E9DD81B6291EE5E4.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/bat/Frames/bat__Idle_4_ase_Auto1.uasset'
+[2024.05.07-16.23.34:765][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/crab] ([1] browsable assets)...
+[2024.05.07-16.23.34:765][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/crab]
+[2024.05.07-16.23.34:767][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/crab_Auto1
+[2024.05.07-16.23.34:767][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab_Auto1F9A18CB046220DC8DB080F8FA6F7E205.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/crab_Auto1.uasset'
+[2024.05.07-16.23.34:768][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:772][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase.crab__Walk_0_ase]
+[2024.05.07-16.23.34:772][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase]
+[2024.05.07-16.23.34:775][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase_Auto1
+[2024.05.07-16.23.34:775][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_0_ase_Auto1F142FB3743CCD16F084F938FC9F96223.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_0_ase_Auto1.uasset'
+[2024.05.07-16.23.34:776][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:779][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase.crab__Walk_1_ase]
+[2024.05.07-16.23.34:779][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase]
+[2024.05.07-16.23.34:782][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase_Auto1
+[2024.05.07-16.23.34:782][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_1_ase_Auto1931095B148518B0383F9279B071B9AD6.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_1_ase_Auto1.uasset'
+[2024.05.07-16.23.34:783][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:786][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase.crab__Walk_2_ase]
+[2024.05.07-16.23.34:786][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase]
+[2024.05.07-16.23.34:789][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase_Auto1
+[2024.05.07-16.23.34:789][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_2_ase_Auto163D277024E4363F77A30D2AE70F198FA.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_2_ase_Auto1.uasset'
+[2024.05.07-16.23.34:790][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:794][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase.crab__Walk_3_ase]
+[2024.05.07-16.23.34:794][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase]
+[2024.05.07-16.23.34:797][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase_Auto1
+[2024.05.07-16.23.34:797][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_3_ase_Auto16F45704D4353A54740A909BEA922371F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_3_ase_Auto1.uasset'
+[2024.05.07-16.23.34:798][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:801][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase.crab__Walk_4_ase]
+[2024.05.07-16.23.34:801][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase]
+[2024.05.07-16.23.34:804][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase_Auto1
+[2024.05.07-16.23.34:804][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_4_ase_Auto1B5A36E674E98BF0E72FE19BF48085B5C.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_4_ase_Auto1.uasset'
+[2024.05.07-16.23.34:805][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:814][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase.crab__Walk_5_ase]
+[2024.05.07-16.23.34:814][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase]
+[2024.05.07-16.23.34:818][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase_Auto1
+[2024.05.07-16.23.34:818][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Walk_5_ase_Auto16548DB0D4CEF16461399A0AB443A1E59.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Walk_5_ase_Auto1.uasset'
+[2024.05.07-16.23.34:819][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:822][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase.crab__Idle_0_ase]
+[2024.05.07-16.23.34:822][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase]
+[2024.05.07-16.23.34:825][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase_Auto1
+[2024.05.07-16.23.34:825][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_0_ase_Auto18151C1CF40702A66B840F1B621083016.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_0_ase_Auto1.uasset'
+[2024.05.07-16.23.34:826][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:829][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase.crab__Idle_1_ase]
+[2024.05.07-16.23.34:829][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase]
+[2024.05.07-16.23.34:832][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase_Auto1
+[2024.05.07-16.23.34:832][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_1_ase_Auto1424D42A64D9C18CB660BCEAAD2827057.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_1_ase_Auto1.uasset'
+[2024.05.07-16.23.34:833][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:836][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase.crab__Idle_2_ase]
+[2024.05.07-16.23.34:836][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase]
+[2024.05.07-16.23.34:839][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase_Auto1
+[2024.05.07-16.23.34:839][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_2_ase_Auto17FAC596946885380AC2294B72263F7E4.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_2_ase_Auto1.uasset'
+[2024.05.07-16.23.34:840][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase] ([1] browsable assets)...
+[2024.05.07-16.23.34:846][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase.crab__Idle_3_ase]
+[2024.05.07-16.23.34:846][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase]
+[2024.05.07-16.23.34:850][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase_Auto1
+[2024.05.07-16.23.34:850][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/crab__Idle_3_ase_Auto1AC2D85074C34DA4BB94818A003668539.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/crab/Frames/crab__Idle_3_ase_Auto1.uasset'
+[2024.05.07-16.23.34:851][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye] ([1] browsable assets)...
+[2024.05.07-16.23.34:851][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye]
+[2024.05.07-16.23.34:853][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye_Auto1
+[2024.05.07-16.23.34:853][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye_Auto11FA10D7F4248D31F24DA6694D5784D1D.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/fly-eye_Auto1.uasset'
+[2024.05.07-16.23.34:854][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:857][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite.fly-eye__Idle_0_aseprite]
+[2024.05.07-16.23.34:857][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite]
+[2024.05.07-16.23.34:860][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite_Auto1
+[2024.05.07-16.23.34:860][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_0_aseprite_Auto190CBF21548DC21F1A04608AAA5C5064C.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:861][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:864][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite.fly-eye__Idle_1_aseprite]
+[2024.05.07-16.23.34:864][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite]
+[2024.05.07-16.23.34:868][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite_Auto1
+[2024.05.07-16.23.34:868][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_1_aseprite_Auto1C54261BA403C1B329DD977B6E237B344.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:869][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:872][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite.fly-eye__Idle_2_aseprite]
+[2024.05.07-16.23.34:872][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite]
+[2024.05.07-16.23.34:875][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite_Auto1
+[2024.05.07-16.23.34:875][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_2_aseprite_Auto1FCA5ACCD4EE967EF1BB69584E8C7038A.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:877][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:880][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite.fly-eye__Idle_3_aseprite]
+[2024.05.07-16.23.34:880][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite]
+[2024.05.07-16.23.34:883][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite_Auto1
+[2024.05.07-16.23.34:883][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fly-eye__Idle_3_aseprite_Auto1214120354659E0B7CFBA24B1ABBA264C.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/fly-eye/Frames/fly-eye__Idle_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:885][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/lizard] ([1] browsable assets)...
+[2024.05.07-16.23.34:885][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/lizard]
+[2024.05.07-16.23.34:888][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/lizard_Auto1
+[2024.05.07-16.23.34:888][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard_Auto13BC734EB42DEB78032E0559EACD2AD54.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/lizard_Auto1.uasset'
+[2024.05.07-16.23.34:889][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:892][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite.lizard__Idle_0_aseprite]
+[2024.05.07-16.23.34:892][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite]
+[2024.05.07-16.23.34:896][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite_Auto1
+[2024.05.07-16.23.34:896][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Idle_0_aseprite_Auto12128D6BA433A4FC896E8A884C440206F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:896][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:899][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite.lizard__Idle_1_aseprite]
+[2024.05.07-16.23.34:899][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite]
+[2024.05.07-16.23.34:902][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite_Auto1
+[2024.05.07-16.23.34:902][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Idle_1_aseprite_Auto138BE267F4D400E8BDDF8CC979B7ED981.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Idle_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:903][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:908][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite.lizard__Jump_0_aseprite]
+[2024.05.07-16.23.34:908][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite]
+[2024.05.07-16.23.34:912][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite_Auto1
+[2024.05.07-16.23.34:912][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Jump_0_aseprite_Auto1EB13CC8C4592B3F408DAA4B7FD3C9C32.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Jump_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:913][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:919][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite.lizard__Shoot_0_aseprite]
+[2024.05.07-16.23.34:919][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite]
+[2024.05.07-16.23.34:923][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.34:923][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_0_aseprite_Auto1DEFDCF6345DCB591E0656FA5AA7952CD.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:924][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:927][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite.lizard__Shoot_1_aseprite]
+[2024.05.07-16.23.34:927][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite]
+[2024.05.07-16.23.34:930][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite_Auto1
+[2024.05.07-16.23.34:930][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_1_aseprite_Auto10B8F7901420BBA0DA1B431B6ADE8992F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:931][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:934][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite.lizard__Shoot_2_aseprite]
+[2024.05.07-16.23.34:934][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite]
+[2024.05.07-16.23.34:937][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite_Auto1
+[2024.05.07-16.23.34:937][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_2_aseprite_Auto1391F43E0442B7D6EFBB5B19441322E9B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:938][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:947][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite.lizard__Shoot_3_aseprite]
+[2024.05.07-16.23.34:947][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite]
+[2024.05.07-16.23.34:950][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite_Auto1
+[2024.05.07-16.23.34:950][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_3_aseprite_Auto13D73E6EA480A701152ADEFB9E0613836.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:951][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:955][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite.lizard__Shoot_4_aseprite]
+[2024.05.07-16.23.34:955][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite]
+[2024.05.07-16.23.34:958][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite_Auto1
+[2024.05.07-16.23.34:958][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/lizard__Shoot_4_aseprite_Auto14BCB0ED349EEFEB45F0DBA9BB043DA0C.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Enemies/lizard/Frames/lizard__Shoot_4_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:959][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Characters/Player/player] ([1] browsable assets)...
+[2024.05.07-16.23.34:959][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/player]
+[2024.05.07-16.23.34:962][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/player_Auto1
+[2024.05.07-16.23.34:962][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player_Auto1703ECE08490103C08A10FE86A1EFCB69.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/player_Auto1.uasset'
+[2024.05.07-16.23.34:962][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:965][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite.player__Climb_0_aseprite]
+[2024.05.07-16.23.34:965][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite]
+[2024.05.07-16.23.34:968][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite_Auto1
+[2024.05.07-16.23.34:968][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_0_aseprite_Auto171AE768E4E083679C4859CB9F556E02D.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:969][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:976][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite.player__Climb_1_aseprite]
+[2024.05.07-16.23.34:976][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite]
+[2024.05.07-16.23.34:979][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite_Auto1
+[2024.05.07-16.23.34:979][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_1_aseprite_Auto1E704EE524BBE989B972CE2B46AEF5F2E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:980][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:983][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite.player__Climb_2_aseprite]
+[2024.05.07-16.23.34:983][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite]
+[2024.05.07-16.23.34:986][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite_Auto1
+[2024.05.07-16.23.34:986][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_2_aseprite_Auto17A2CCA314DE917936A4351816D445A65.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:988][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:991][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite.player__Climb_3_aseprite]
+[2024.05.07-16.23.34:991][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite]
+[2024.05.07-16.23.34:994][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite_Auto1
+[2024.05.07-16.23.34:994][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_3_aseprite_Auto107963CFD496C5A170913ACB75A0C4D34.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.34:995][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.34:997][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite.player__Slide_0_aseprite]
+[2024.05.07-16.23.34:997][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite]
+[2024.05.07-16.23.35:001][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite_Auto1
+[2024.05.07-16.23.35:001][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Slide_0_aseprite_Auto138135FCA43615F3369A593A880F0B56B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Slide_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:002][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:009][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite.player__JumpRise_0_aseprite]
+[2024.05.07-16.23.35:009][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite]
+[2024.05.07-16.23.35:012][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite_Auto1
+[2024.05.07-16.23.35:012][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__JumpRise_0_aseprite_Auto54CE4D0540D16E6C802BEBBC157B2D4F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:013][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:016][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite.player__Fall_0_aseprite]
+[2024.05.07-16.23.35:016][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite]
+[2024.05.07-16.23.35:019][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite_Auto1
+[2024.05.07-16.23.35:019][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Fall_0_aseprite_Auto1580F09E847B369E4044EF2947825FC48.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Fall_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:020][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:023][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite.player__Hurt_0_aseprite]
+[2024.05.07-16.23.35:023][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite]
+[2024.05.07-16.23.35:026][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite_Auto1
+[2024.05.07-16.23.35:026][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Hurt_0_aseprite_Auto12186039B4D983FD2EDEA7D8E628BA654.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Hurt_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:027][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:031][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite.player__Hurt_1_aseprite]
+[2024.05.07-16.23.35:031][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite]
+[2024.05.07-16.23.35:034][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite_Auto1
+[2024.05.07-16.23.35:034][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Hurt_1_aseprite_Auto1DAB2767846F3214FF045E1A5D064CCE8.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Hurt_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:034][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:037][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite.player__Idle_0_aseprite]
+[2024.05.07-16.23.35:037][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite]
+[2024.05.07-16.23.35:039][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite_Auto1
+[2024.05.07-16.23.35:039][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_0_aseprite_Auto1ED46DD5B46202215E5A761B9ED070CA0.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:040][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:046][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite.player__Idle_1_aseprite]
+[2024.05.07-16.23.35:046][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite]
+[2024.05.07-16.23.35:049][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite_Auto1
+[2024.05.07-16.23.35:049][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_1_aseprite_Auto146C09CCD4C56C7281C208F802407FE4E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:050][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:053][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite.player__Idle_2_aseprite]
+[2024.05.07-16.23.35:053][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite]
+[2024.05.07-16.23.35:056][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite_Auto1
+[2024.05.07-16.23.35:056][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_2_aseprite_Auto19C3EBECF491F0327F98C079075761A51.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:057][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:060][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite.player__Idle_3_aseprite]
+[2024.05.07-16.23.35:060][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite]
+[2024.05.07-16.23.35:063][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite_Auto1
+[2024.05.07-16.23.35:063][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_3_aseprite_Auto1E88CAEC249B49C5780AD6FB88FB65AB6.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:064][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:067][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite.player__Idle_4_aseprite]
+[2024.05.07-16.23.35:067][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite]
+[2024.05.07-16.23.35:070][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite_Auto1
+[2024.05.07-16.23.35:070][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_4_aseprite_Auto11B35B7A5457C31C6111D239300B7203B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_4_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:071][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:080][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite.player__Idle_5_aseprite]
+[2024.05.07-16.23.35:080][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite]
+[2024.05.07-16.23.35:083][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite_Auto1
+[2024.05.07-16.23.35:083][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_5_aseprite_Auto1C40AFE07417BCC50A00EB6A8E4A13ED9.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_5_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:085][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:090][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite.player__Run_0_aseprite]
+[2024.05.07-16.23.35:090][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite]
+[2024.05.07-16.23.35:093][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite_Auto1
+[2024.05.07-16.23.35:093][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_0_aseprite_Auto10A45650649C2183114064EBC90C67770.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:094][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:098][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite.player__Run_1_aseprite]
+[2024.05.07-16.23.35:098][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite]
+[2024.05.07-16.23.35:101][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite_Auto1
+[2024.05.07-16.23.35:101][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_1_aseprite_Auto12B00C72D4BA6E2E95C0DD497380DC803.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:102][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:105][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite.player__Run_2_aseprite]
+[2024.05.07-16.23.35:105][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite]
+[2024.05.07-16.23.35:108][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite_Auto1
+[2024.05.07-16.23.35:108][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_2_aseprite_Auto13DE313014FDF0C8BC5FB2C82BB54FF2F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:109][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:115][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite.player__Run_3_aseprite]
+[2024.05.07-16.23.35:115][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite]
+[2024.05.07-16.23.35:118][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite_Auto1
+[2024.05.07-16.23.35:118][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_3_aseprite_Auto1F3F47BBF4A42C984C06DEF92B188E119.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:119][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:121][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite.player__Run_4_aseprite]
+[2024.05.07-16.23.35:121][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite]
+[2024.05.07-16.23.35:124][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite_Auto1
+[2024.05.07-16.23.35:124][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_4_aseprite_Auto15375A1204142DAE36E1D8B983B3E8D8E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_4_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:125][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:128][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite.player__Run_5_aseprite]
+[2024.05.07-16.23.35:128][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite]
+[2024.05.07-16.23.35:131][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite_Auto1
+[2024.05.07-16.23.35:131][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_5_aseprite_Auto1A814CDFF4BA01F12C2760CBB7A995FAC.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_5_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:132][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:134][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite.player__Idle_Shoot_0_aseprite]
+[2024.05.07-16.23.35:134][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite]
+[2024.05.07-16.23.35:137][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.35:138][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_Shoot_0_aseprite_Au0B0E19B744291B3A4369B18146F1FFD3.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:138][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:147][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite.player__Idle_Shoot_1_aseprite]
+[2024.05.07-16.23.35:147][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite]
+[2024.05.07-16.23.35:151][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite_Auto1
+[2024.05.07-16.23.35:151][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_Shoot_1_aseprite_Au5B91193943C9E322026EE9A533116E95.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:151][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:155][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite.player__Idle_Shoot_2_aseprite]
+[2024.05.07-16.23.35:155][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite]
+[2024.05.07-16.23.35:158][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite_Auto1
+[2024.05.07-16.23.35:158][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Idle_Shoot_2_aseprite_Au6353D4524AC9BF079079EA81C2B03335.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Idle_Shoot_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:159][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:163][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite.player__Run_Shoot_0_aseprite]
+[2024.05.07-16.23.35:163][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite]
+[2024.05.07-16.23.35:166][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.35:166][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_0_aseprite_AutDCC6E6DE4B86A03D0F3D9EA5C52C0B7F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:167][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:169][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite.player__Run_Shoot_1_aseprite]
+[2024.05.07-16.23.35:169][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite]
+[2024.05.07-16.23.35:173][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite_Auto1
+[2024.05.07-16.23.35:173][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_1_aseprite_Aut42162D5445CD17AE229F909B28E13FF4.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:174][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:180][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite.player__Run_Shoot_2_aseprite]
+[2024.05.07-16.23.35:180][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite]
+[2024.05.07-16.23.35:183][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite_Auto1
+[2024.05.07-16.23.35:183][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_2_aseprite_AutF5FC284A4E1DC71BA98333BA910D8ED3.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:184][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:187][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite.player__Run_Shoot_3_aseprite]
+[2024.05.07-16.23.35:187][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite]
+[2024.05.07-16.23.35:190][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite_Auto1
+[2024.05.07-16.23.35:190][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_3_aseprite_Aut04EC47E74A70B712455F78A1411D599E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:191][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:194][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite.player__Run_Shoot_4_aseprite]
+[2024.05.07-16.23.35:194][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite]
+[2024.05.07-16.23.35:197][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite_Auto1
+[2024.05.07-16.23.35:197][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_4_aseprite_AutF9F2FF6E41947AD943EBADAAFBB709AD.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_4_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:198][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:200][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite.player__Run_Shoot_5_aseprite]
+[2024.05.07-16.23.35:200][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite]
+[2024.05.07-16.23.35:203][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite_Auto1
+[2024.05.07-16.23.35:203][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Run_Shoot_5_aseprite_AutDE539B6B4D5C1EBE8B7755B7339B519B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Run_Shoot_5_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:204][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:214][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite.player__JumpRise_Shoot_0_aseprite]
+[2024.05.07-16.23.35:214][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite]
+[2024.05.07-16.23.35:217][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.35:217][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__JumpRise_Shoot_0_asepritA1AF594945DC6CB8237BDFA41A20112E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__JumpRise_Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:218][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:222][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite.player__Fall_Shoot_0_aseprite]
+[2024.05.07-16.23.35:222][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite]
+[2024.05.07-16.23.35:225][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.35:225][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Fall_Shoot_0_aseprite_Au54CCD1584A8EAB252A2460B543B4C7CE.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Fall_Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:226][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:229][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite.player__Climb_Shoot_0_aseprite]
+[2024.05.07-16.23.35:229][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite]
+[2024.05.07-16.23.35:232][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.35:232][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__Climb_Shoot_0_aseprite_A1E9CE78B4C6E525F3149FEB8310B1EF9.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__Climb_Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:233][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:236][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite.player__WallSlide_0_aseprite]
+[2024.05.07-16.23.35:236][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite]
+[2024.05.07-16.23.35:239][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite_Auto1
+[2024.05.07-16.23.35:239][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__WallSlide_0_aseprite_Aut70CB3FD44CF157DC7BFFD5B49BC9C2FD.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:240][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:246][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite.player__WallSlide_Shoot_0_aseprite]
+[2024.05.07-16.23.35:246][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite]
+[2024.05.07-16.23.35:249][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite_Auto1
+[2024.05.07-16.23.35:249][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player__WallSlide_Shoot_0_asepriD6A1C9F643C9C937B791CCAD4BE3E692.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Characters/Player/Frames/player__WallSlide_Shoot_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:250][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/explosion/explosion] ([1] browsable assets)...
+[2024.05.07-16.23.35:250][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/explosion]
+[2024.05.07-16.23.35:250][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/explosion/explosion" FILE="C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/explosion/explosion_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.07-16.23.35:252][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/explosion_Auto1
+[2024.05.07-16.23.35:252][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion_Auto16D12442240AFE2A4ACD06A97BAF2209B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/explosion/explosion_Auto1.uasset'
+[2024.05.07-16.23.35:253][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:256][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite.explosion__Loop_0_aseprite]
+[2024.05.07-16.23.35:256][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite]
+[2024.05.07-16.23.35:259][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite_Auto1
+[2024.05.07-16.23.35:259][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_0_aseprite_Auto1A2E447274FEC75FB5427569F0A555484.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:260][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:264][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite.explosion__Loop_1_aseprite]
+[2024.05.07-16.23.35:264][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite]
+[2024.05.07-16.23.35:267][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite_Auto1
+[2024.05.07-16.23.35:267][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_1_aseprite_Auto1C83ECDCA488154E421A45BA24DF086B1.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:268][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:271][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite.explosion__Loop_2_aseprite]
+[2024.05.07-16.23.35:271][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite]
+[2024.05.07-16.23.35:274][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite_Auto1
+[2024.05.07-16.23.35:274][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_2_aseprite_Auto128B746C84EB34310B6DFA2947BE8AF7D.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:275][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:280][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite.explosion__Loop_3_aseprite]
+[2024.05.07-16.23.35:280][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite]
+[2024.05.07-16.23.35:283][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite_Auto1
+[2024.05.07-16.23.35:283][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/explosion__Loop_3_aseprite_Auto14EC591004F2B27BE1F48889A63B62169.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/explosion/Frames/explosion__Loop_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:285][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/fireball/fireball] ([1] browsable assets)...
+[2024.05.07-16.23.35:285][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/fireball]
+[2024.05.07-16.23.35:285][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PaperAssets/Fx/fireball/fireball" FILE="C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/fireball/fireball_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.05.07-16.23.35:287][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/fireball_Auto1
+[2024.05.07-16.23.35:287][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball_Auto151BF69A94D510950CC993E91EDCC55F2.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/fireball/fireball_Auto1.uasset'
+[2024.05.07-16.23.35:288][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:292][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase.fireball__Loop_0_ase]
+[2024.05.07-16.23.35:292][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase]
+[2024.05.07-16.23.35:295][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase_Auto1
+[2024.05.07-16.23.35:295][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_0_ase_Auto15E3B9B0F4163626628FE288A6D0F1360.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_0_ase_Auto1.uasset'
+[2024.05.07-16.23.35:296][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:298][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase.fireball__Loop_1_ase]
+[2024.05.07-16.23.35:298][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase]
+[2024.05.07-16.23.35:301][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase_Auto1
+[2024.05.07-16.23.35:301][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_1_ase_Auto14E099DDC4A83C403C39221A728716F49.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_1_ase_Auto1.uasset'
+[2024.05.07-16.23.35:302][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:308][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase.fireball__Loop_2_ase]
+[2024.05.07-16.23.35:308][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase]
+[2024.05.07-16.23.35:311][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase_Auto1
+[2024.05.07-16.23.35:311][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_2_ase_Auto1B317DE7C40159952BCBC4A8739F19600.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_2_ase_Auto1.uasset'
+[2024.05.07-16.23.35:312][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:315][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase.fireball__Loop_3_ase]
+[2024.05.07-16.23.35:315][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase]
+[2024.05.07-16.23.35:318][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase_Auto1
+[2024.05.07-16.23.35:318][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/fireball__Loop_3_ase_Auto196D700E44E93713C738A76B04DA54D4C.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/fireball/Frames/fireball__Loop_3_ase_Auto1.uasset'
+[2024.05.07-16.23.35:319][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/player-shoot] ([1] browsable assets)...
+[2024.05.07-16.23.35:319][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/player-shoot]
+[2024.05.07-16.23.35:321][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/player-shoot_Auto1
+[2024.05.07-16.23.35:321][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_Auto15F20D38A45712FF242D0799DC19DB232.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/player-shoot_Auto1.uasset'
+[2024.05.07-16.23.35:321][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:324][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase.player-shoot_____Loop_0_ase]
+[2024.05.07-16.23.35:324][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase]
+[2024.05.07-16.23.35:327][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase_Auto1
+[2024.05.07-16.23.35:327][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_0_ase_AutoAE98B4DD4D93730E0E5832AF3CE0A58F.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_0_ase_Auto1.uasset'
+[2024.05.07-16.23.35:328][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:332][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase.player-shoot_____Loop_1_ase]
+[2024.05.07-16.23.35:332][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase]
+[2024.05.07-16.23.35:335][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase_Auto1
+[2024.05.07-16.23.35:335][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_1_ase_AutoF1DF5E574145EA0063D398A95D1C7C59.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_1_ase_Auto1.uasset'
+[2024.05.07-16.23.35:336][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:338][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase.player-shoot_____Loop_2_ase]
+[2024.05.07-16.23.35:338][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase]
+[2024.05.07-16.23.35:341][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase_Auto1
+[2024.05.07-16.23.35:341][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_2_ase_Auto289201B142DB375A1FCFDBA607DDE5A8.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_2_ase_Auto1.uasset'
+[2024.05.07-16.23.35:342][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase] ([1] browsable assets)...
+[2024.05.07-16.23.35:346][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase.player-shoot_____Loop_3_ase]
+[2024.05.07-16.23.35:346][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase]
+[2024.05.07-16.23.35:350][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase_Auto1
+[2024.05.07-16.23.35:350][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot_____Loop_3_ase_Auto1D7639BD4493CCB49A24D3ADB0BDC841.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot/Frames/player-shoot_____Loop_3_ase_Auto1.uasset'
+[2024.05.07-16.23.35:350][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge] ([1] browsable assets)...
+[2024.05.07-16.23.35:350][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge]
+[2024.05.07-16.23.35:353][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge_Auto1
+[2024.05.07-16.23.35:353][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_Auto1DA0FEB8E4BB348373BB0818624F98B22.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/player-shoot-charge_Auto1.uasset'
+[2024.05.07-16.23.35:353][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:357][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite.player-shoot-charge_0_aseprite]
+[2024.05.07-16.23.35:357][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite]
+[2024.05.07-16.23.35:360][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite_Auto1
+[2024.05.07-16.23.35:360][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_0_aseprite_A51006C6447408F5FE3C9669AAB0D5CB1.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:361][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:363][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite.player-shoot-charge_1_aseprite]
+[2024.05.07-16.23.35:363][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite]
+[2024.05.07-16.23.35:366][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite_Auto1
+[2024.05.07-16.23.35:366][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_1_aseprite_A629F0B7443F5F2BEA5A526980DD2F61A.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:367][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:369][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite.player-shoot-charge_2_aseprite]
+[2024.05.07-16.23.35:370][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite]
+[2024.05.07-16.23.35:373][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite_Auto1
+[2024.05.07-16.23.35:373][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_2_aseprite_A882661D9488D6CA908EF52983ECB510E.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:374][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:380][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite.player-shoot-charge_3_aseprite]
+[2024.05.07-16.23.35:380][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite]
+[2024.05.07-16.23.35:383][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite_Auto1
+[2024.05.07-16.23.35:383][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-charge_3_aseprite_AC76BDA8545545E9177C8B09205B2B1EC.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-charge/Frames/player-shoot-charge_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:384][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit] ([1] browsable assets)...
+[2024.05.07-16.23.35:384][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit]
+[2024.05.07-16.23.35:386][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit_Auto1
+[2024.05.07-16.23.35:386][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit_Auto11703EDC6462D823A991D8395D0C5CD96.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/player-shoot-hit_Auto1.uasset'
+[2024.05.07-16.23.35:387][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:390][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite.player-shoot-hit__Loop_0_aseprite]
+[2024.05.07-16.23.35:390][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite]
+[2024.05.07-16.23.35:393][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite_Auto1
+[2024.05.07-16.23.35:393][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_0_aseprit1698B60348ECEECC15CD47AC5EB6EB8B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_0_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:394][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:396][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite.player-shoot-hit__Loop_1_aseprite]
+[2024.05.07-16.23.35:396][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite]
+[2024.05.07-16.23.35:399][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite_Auto1
+[2024.05.07-16.23.35:399][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_1_asepritC2A385AC42074B9E6E513892C142841B.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_1_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:400][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:404][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite.player-shoot-hit__Loop_2_aseprite]
+[2024.05.07-16.23.35:404][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite]
+[2024.05.07-16.23.35:407][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite_Auto1
+[2024.05.07-16.23.35:407][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_2_aseprit4D6A27484D22393D89B874B4DB7C9520.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_2_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:408][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite] ([1] browsable assets)...
+[2024.05.07-16.23.35:414][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite.player-shoot-hit__Loop_3_aseprite]
+[2024.05.07-16.23.35:414][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite]
+[2024.05.07-16.23.35:417][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite_Auto1
+[2024.05.07-16.23.35:417][688]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/player-shoot-hit__Loop_3_aseprit1CD852054A8F534A48C652AC314B69DF.tmp' to 'C:/UnrealProjects/MegaStar/Saved/Autosaves/Game/PaperAssets/Fx/player-shoot-hit/Frames/player-shoot-hit__Loop_3_aseprite_Auto1.uasset'
+[2024.05.07-16.23.35:418][688]LogFileHelpers: Auto-saving content packages took 0.713
+[2024.05.07-16.24.11:861][247]BlueprintLog: New page: Collapse to Function
+[2024.05.07-16.25.10:766][702]LogViewport: Scene viewport resized to 1525x875, mode Windowed.
+[2024.05.07-16.27.15:105][  5]BlueprintLog: New page: Compile BP_Player
+[2024.05.07-16.27.15:135][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.07-16.27.16:837][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-16.27.16:889][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Characters/Player/BP_Player" FILE="C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset" SILENT=true
+[2024.05.07-16.27.16:900][170]LogSavePackage: Moving output files for package: /Game/BP/Characters/Player/BP_Player
+[2024.05.07-16.27.16:901][170]LogSavePackage: Moving 'C:/UnrealProjects/MegaStar/Saved/BP_Player5214ED3B48EF446F001F67844FC3795F.tmp' to 'C:/UnrealProjects/MegaStar/Content/BP/Characters/Player/BP_Player.uasset'
+[2024.05.07-16.27.16:907][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.79 sec)
+[2024.05.07-16.27.16:908][170]AssetCheck: New page: Asset Save: BP_Player
+[2024.05.07-16.27.16:908][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Characters/Player/BP_Player.BP_Player
+[2024.05.07-16.27.20:025][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: ================================================
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: Total job queries 76, among them cache hits 14 (18.42%)
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: Tracking 55 distinct input hashes that result in 41 distinct outputs (74.55%)
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: RAM used: 1.18 MiB of 1.60 GiB budget. Usage: 0.07%
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: Shaders Compiled: 55
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: Jobs assigned 58, completed 55 (94.83%)
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: Average time worker was idle: 169.05 s
+[2024.05.07-16.27.20:423][402]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.39 s
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.67 s
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 0.76
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Shader code size: average 34.117 KiB, min 4.359 KiB, max 43.316 KiB
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.07 s
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Jobs were issued in 58 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Average processing rate: 10.84 jobs/sec
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Total thread time: 14.386 s
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Total thread preprocess time: 1.414 s
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Percentage time preprocessing: 9.83%
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Effective parallelization: 2.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.33 sec, max 0.41 sec, min 0.25 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.30 sec, max 0.36 sec, min 0.25 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.28 sec, max 0.33 sec, min 0.21 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    9 times, average 0.28 sec, max 0.34 sec, min 0.22 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.25% of total time (compiled   11 times, average 0.33 sec, max 0.41 sec, min 0.25 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.69% of total time (compiled   11 times, average 0.28 sec, max 0.33 sec, min 0.21 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.73% of total time (compiled    9 times, average 0.28 sec, max 0.34 sec, min 0.22 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.61% of total time (compiled   10 times, average 0.15 sec, max 0.24 sec, min 0.10 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.65% of total time (compiled    3 times, average 0.22 sec, max 0.25 sec, min 0.20 sec)
+[2024.05.07-16.27.20:424][402]LogShaderCompilers: Display: ================================================
+[2024.05.07-16.27.21:513][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.07-16.27.21:521][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-16.27.21:521][523]PIE: New page: PIE session: MAP_Debug (07.05.2024, 20:27:21)
+[2024.05.07-16.27.21:545][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.27.21:547][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2024.05.07-16.27.21:547][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001495s)
+[2024.05.07-16.27.21:560][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.07-16.27.21:562][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-16.27.21:562][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-16.27.21:562][523]LogAIModule: Creating AISystem for world MAP_Debug
+[2024.05.07-16.27.21:563][523]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2024.05.07-16.27.21:563][523]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.07-16.27.21:563][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-16.27.21:563][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-16.27.21:563][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-16.27.21:563][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-16.27.21:563][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-16.27.21:565][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-16.27.21:588][523]LogAudioMixer: Display: Using Audio Hardware Device Analogue 1/2 (2- Audient iD14)
+[2024.05.07-16.27.21:588][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-16.27.21:588][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-16.27.21:588][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-16.27.21:589][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.07-16.27.21:589][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.07-16.27.21:590][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.07-16.27.21:590][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.07-16.27.21:590][523]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.07-16.27.21:590][523]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_Debug'.
+[2024.05.07-16.27.21:590][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.07-16.27.21:592][523]LogLoad: Game class is 'GM_Action_C'
+[2024.05.07-16.27.21:593][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.05.07-18.27.21
+[2024.05.07-16.27.21:593][523]LogWorld: Bringing up level for play took: 0.000464
+[2024.05.07-16.27.21:595][523]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.07-16.27.21:596][523]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.05.07-16.27.21:596][523]PIE: Server logged in
+[2024.05.07-16.27.21:597][523]PIE: Play in editor total start time 0.077 seconds.
+[2024.05.07-16.27.31:725][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.27.31:725][605]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.05.07-16.27.31:725][605]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-16.27.31:725][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.27.31:727][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-16.27.31:731][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-16.27.31:744][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-16.27.31:744][605]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.07-16.27.31:744][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.07-16.27.31:746][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.07-16.27.31:751][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.07-16.27.31:810][606]LogPlayLevel: Display: Destroying online subsystem :Context_34
